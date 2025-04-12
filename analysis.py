@@ -6,8 +6,8 @@ import xml.etree.ElementTree as ET
 
 startingPositionsFile = ".\\startingPositions.txt"
 stockfishPath = ".\\stockfish\\stockfish-windows-x86-64-avx2.exe"
-depth = 1
-showMoves = 5
+depth = 20
+showMoves = 10
 resultsToFile = True
 
 results = []
@@ -35,15 +35,17 @@ stockfish = Stockfish(
 )
 
 startTime = time.time()
-print(f"Starting analysing {totalPositions} starting positions with a depth of {depth}")
+formattedStartTime = time.strftime("%H:%M:%S", time.localtime(startTime))
+print(f"{formattedStartTime} - Starting analysing {totalPositions} starting positions with a depth of {depth}")
 
 
 for index, startingPosition in enumerate(startingPositions):
     positionIndex = index + 1
-
-    sys.stdout.write(f"\rProgress: {positionIndex}/960")
+    tempTime = time.time()
+    tempDuration = time.gmtime((tempTime - startTime))
+    formattedTempTime = time.strftime("%H:%M:%S", tempDuration)
+    sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionIndex}/960")
     sys.stdout.flush()
-
 
     stockfish.set_fen_position(startingPosition)
     # Evaluate the position.
@@ -98,7 +100,8 @@ def write_results_to_xml(results, output_file):
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
 if resultsToFile:
-    output_file = f"starting_pos_analysis_depth_{depth}.xml"
+    print("Writing results to output file")
+    output_file = f"analysis\\starting_pos_analysis_depth_{depth}.xml"
     write_results_to_xml(results, output_file)
 else:
     print(results)
