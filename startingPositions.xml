@@ -1,0 +1,3842 @@
+<positions>
+  <startingPosition>
+    <positionNumber>1</positionNumber>
+    <fen>bbqnnrkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>2</positionNumber>
+    <fen>bbqnrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>3</positionNumber>
+    <fen>bbqnrknr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>4</positionNumber>
+    <fen>bbqnrkrn/pppppppp/8/8/8/8/PPPPPPPP/BBQNRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>5</positionNumber>
+    <fen>bbqrnnkr/pppppppp/8/8/8/8/PPPPPPPP/BBQRNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>6</positionNumber>
+    <fen>bbqrnknr/pppppppp/8/8/8/8/PPPPPPPP/BBQRNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>7</positionNumber>
+    <fen>bbqrnkrn/pppppppp/8/8/8/8/PPPPPPPP/BBQRNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>8</positionNumber>
+    <fen>bbqrknnr/pppppppp/8/8/8/8/PPPPPPPP/BBQRKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>9</positionNumber>
+    <fen>bbqrknrn/pppppppp/8/8/8/8/PPPPPPPP/BBQRKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>10</positionNumber>
+    <fen>bbqrkrnn/pppppppp/8/8/8/8/PPPPPPPP/BBQRKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>11</positionNumber>
+    <fen>bbnqnrkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>12</positionNumber>
+    <fen>bbnqrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>13</positionNumber>
+    <fen>bbnqrknr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>14</positionNumber>
+    <fen>bbnqrkrn/pppppppp/8/8/8/8/PPPPPPPP/BBNQRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>15</positionNumber>
+    <fen>bbrqnnkr/pppppppp/8/8/8/8/PPPPPPPP/BBRQNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>16</positionNumber>
+    <fen>bbrqnknr/pppppppp/8/8/8/8/PPPPPPPP/BBRQNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>17</positionNumber>
+    <fen>bbrqnkrn/pppppppp/8/8/8/8/PPPPPPPP/BBRQNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>18</positionNumber>
+    <fen>bbrqknnr/pppppppp/8/8/8/8/PPPPPPPP/BBRQKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>19</positionNumber>
+    <fen>bbrqknrn/pppppppp/8/8/8/8/PPPPPPPP/BBRQKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>20</positionNumber>
+    <fen>bbrqkrnn/pppppppp/8/8/8/8/PPPPPPPP/BBRQKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>21</positionNumber>
+    <fen>bbnnqrkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNQRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>22</positionNumber>
+    <fen>bbnrqnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNRQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>23</positionNumber>
+    <fen>bbnrqknr/pppppppp/8/8/8/8/PPPPPPPP/BBNRQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>24</positionNumber>
+    <fen>bbnrqkrn/pppppppp/8/8/8/8/PPPPPPPP/BBNRQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>25</positionNumber>
+    <fen>bbrnqnkr/pppppppp/8/8/8/8/PPPPPPPP/BBRNQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>26</positionNumber>
+    <fen>bbrnqknr/pppppppp/8/8/8/8/PPPPPPPP/BBRNQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>27</positionNumber>
+    <fen>bbrnqkrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>28</positionNumber>
+    <fen>bbrkqnnr/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>29</positionNumber>
+    <fen>bbrkqnrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>30</positionNumber>
+    <fen>bbrkqrnn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>31</positionNumber>
+    <fen>bbnnrqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>32</positionNumber>
+    <fen>bbnrnqkr/pppppppp/8/8/8/8/PPPPPPPP/BBNRNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>33</positionNumber>
+    <fen>bbnrkqnr/pppppppp/8/8/8/8/PPPPPPPP/BBNRKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>34</positionNumber>
+    <fen>bbnrkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBNRKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>35</positionNumber>
+    <fen>bbrnnqkr/pppppppp/8/8/8/8/PPPPPPPP/BBRNNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>36</positionNumber>
+    <fen>bbrnkqnr/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>37</positionNumber>
+    <fen>bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>38</positionNumber>
+    <fen>bbrknqnr/pppppppp/8/8/8/8/PPPPPPPP/BBRKNQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>39</positionNumber>
+    <fen>bbrknqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKNQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>40</positionNumber>
+    <fen>bbrkrqnn/pppppppp/8/8/8/8/PPPPPPPP/BBRKRQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>41</positionNumber>
+    <fen>bbnnrkqr/pppppppp/8/8/8/8/PPPPPPPP/BBNNRKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>42</positionNumber>
+    <fen>bbnrnkqr/pppppppp/8/8/8/8/PPPPPPPP/BBNRNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>43</positionNumber>
+    <fen>bbnrknqr/pppppppp/8/8/8/8/PPPPPPPP/BBNRKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>44</positionNumber>
+    <fen>bbnrkrqn/pppppppp/8/8/8/8/PPPPPPPP/BBNRKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>45</positionNumber>
+    <fen>bbrnnkqr/pppppppp/8/8/8/8/PPPPPPPP/BBRNNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>46</positionNumber>
+    <fen>bbrnknqr/pppppppp/8/8/8/8/PPPPPPPP/BBRNKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>47</positionNumber>
+    <fen>bbrnkrqn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>48</positionNumber>
+    <fen>bbrknnqr/pppppppp/8/8/8/8/PPPPPPPP/BBRKNNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>49</positionNumber>
+    <fen>bbrknrqn/pppppppp/8/8/8/8/PPPPPPPP/BBRKNRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>50</positionNumber>
+    <fen>bbrkrnqn/pppppppp/8/8/8/8/PPPPPPPP/BBRKRNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>51</positionNumber>
+    <fen>bbnnrkrq/pppppppp/8/8/8/8/PPPPPPPP/BBNNRKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>52</positionNumber>
+    <fen>bbnrnkrq/pppppppp/8/8/8/8/PPPPPPPP/BBNRNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>53</positionNumber>
+    <fen>bbnrknrq/pppppppp/8/8/8/8/PPPPPPPP/BBNRKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>54</positionNumber>
+    <fen>bbnrkrnq/pppppppp/8/8/8/8/PPPPPPPP/BBNRKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>55</positionNumber>
+    <fen>bbrnnkrq/pppppppp/8/8/8/8/PPPPPPPP/BBRNNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>56</positionNumber>
+    <fen>bbrnknrq/pppppppp/8/8/8/8/PPPPPPPP/BBRNKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>57</positionNumber>
+    <fen>bbrnkrnq/pppppppp/8/8/8/8/PPPPPPPP/BBRNKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>58</positionNumber>
+    <fen>bbrknnrq/pppppppp/8/8/8/8/PPPPPPPP/BBRKNNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>59</positionNumber>
+    <fen>bbrknrnq/pppppppp/8/8/8/8/PPPPPPPP/BBRKNRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>60</positionNumber>
+    <fen>bbrkrnnq/pppppppp/8/8/8/8/PPPPPPPP/BBRKRNNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>61</positionNumber>
+    <fen>bqnbnrkr/pppppppp/8/8/8/8/PPPPPPPP/BQNBNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>62</positionNumber>
+    <fen>bqnbrnkr/pppppppp/8/8/8/8/PPPPPPPP/BQNBRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>63</positionNumber>
+    <fen>bqnbrknr/pppppppp/8/8/8/8/PPPPPPPP/BQNBRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>64</positionNumber>
+    <fen>bqnbrkrn/pppppppp/8/8/8/8/PPPPPPPP/BQNBRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>65</positionNumber>
+    <fen>bqrbnnkr/pppppppp/8/8/8/8/PPPPPPPP/BQRBNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>66</positionNumber>
+    <fen>bqrbnknr/pppppppp/8/8/8/8/PPPPPPPP/BQRBNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>67</positionNumber>
+    <fen>bqrbnkrn/pppppppp/8/8/8/8/PPPPPPPP/BQRBNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>68</positionNumber>
+    <fen>bqrbknnr/pppppppp/8/8/8/8/PPPPPPPP/BQRBKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>69</positionNumber>
+    <fen>bqrbknrn/pppppppp/8/8/8/8/PPPPPPPP/BQRBKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>70</positionNumber>
+    <fen>bqrbkrnn/pppppppp/8/8/8/8/PPPPPPPP/BQRBKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>71</positionNumber>
+    <fen>bnqbnrkr/pppppppp/8/8/8/8/PPPPPPPP/BNQBNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>72</positionNumber>
+    <fen>bnqbrnkr/pppppppp/8/8/8/8/PPPPPPPP/BNQBRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>73</positionNumber>
+    <fen>bnqbrknr/pppppppp/8/8/8/8/PPPPPPPP/BNQBRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>74</positionNumber>
+    <fen>bnqbrkrn/pppppppp/8/8/8/8/PPPPPPPP/BNQBRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>75</positionNumber>
+    <fen>brqbnnkr/pppppppp/8/8/8/8/PPPPPPPP/BRQBNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>76</positionNumber>
+    <fen>brqbnknr/pppppppp/8/8/8/8/PPPPPPPP/BRQBNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>77</positionNumber>
+    <fen>brqbnkrn/pppppppp/8/8/8/8/PPPPPPPP/BRQBNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>78</positionNumber>
+    <fen>brqbknnr/pppppppp/8/8/8/8/PPPPPPPP/BRQBKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>79</positionNumber>
+    <fen>brqbknrn/pppppppp/8/8/8/8/PPPPPPPP/BRQBKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>80</positionNumber>
+    <fen>brqbkrnn/pppppppp/8/8/8/8/PPPPPPPP/BRQBKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>81</positionNumber>
+    <fen>bnnbqrkr/pppppppp/8/8/8/8/PPPPPPPP/BNNBQRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>82</positionNumber>
+    <fen>bnrbqnkr/pppppppp/8/8/8/8/PPPPPPPP/BNRBQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>83</positionNumber>
+    <fen>bnrbqknr/pppppppp/8/8/8/8/PPPPPPPP/BNRBQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>84</positionNumber>
+    <fen>bnrbqkrn/pppppppp/8/8/8/8/PPPPPPPP/BNRBQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>85</positionNumber>
+    <fen>brnbqnkr/pppppppp/8/8/8/8/PPPPPPPP/BRNBQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>86</positionNumber>
+    <fen>brnbqknr/pppppppp/8/8/8/8/PPPPPPPP/BRNBQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>87</positionNumber>
+    <fen>brnbqkrn/pppppppp/8/8/8/8/PPPPPPPP/BRNBQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>88</positionNumber>
+    <fen>brkbqnnr/pppppppp/8/8/8/8/PPPPPPPP/BRKBQNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>89</positionNumber>
+    <fen>brkbqnrn/pppppppp/8/8/8/8/PPPPPPPP/BRKBQNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>90</positionNumber>
+    <fen>brkbqrnn/pppppppp/8/8/8/8/PPPPPPPP/BRKBQRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>91</positionNumber>
+    <fen>bnnbrqkr/pppppppp/8/8/8/8/PPPPPPPP/BNNBRQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>92</positionNumber>
+    <fen>bnrbnqkr/pppppppp/8/8/8/8/PPPPPPPP/BNRBNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>93</positionNumber>
+    <fen>bnrbkqnr/pppppppp/8/8/8/8/PPPPPPPP/BNRBKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>94</positionNumber>
+    <fen>bnrbkqrn/pppppppp/8/8/8/8/PPPPPPPP/BNRBKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>95</positionNumber>
+    <fen>brnbnqkr/pppppppp/8/8/8/8/PPPPPPPP/BRNBNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>96</positionNumber>
+    <fen>brnbkqnr/pppppppp/8/8/8/8/PPPPPPPP/BRNBKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>97</positionNumber>
+    <fen>brnbkqrn/pppppppp/8/8/8/8/PPPPPPPP/BRNBKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>98</positionNumber>
+    <fen>brkbnqnr/pppppppp/8/8/8/8/PPPPPPPP/BRKBNQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>99</positionNumber>
+    <fen>brkbnqrn/pppppppp/8/8/8/8/PPPPPPPP/BRKBNQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>100</positionNumber>
+    <fen>brkbrqnn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>101</positionNumber>
+    <fen>bnnbrkqr/pppppppp/8/8/8/8/PPPPPPPP/BNNBRKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>102</positionNumber>
+    <fen>bnrbnkqr/pppppppp/8/8/8/8/PPPPPPPP/BNRBNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>103</positionNumber>
+    <fen>bnrbknqr/pppppppp/8/8/8/8/PPPPPPPP/BNRBKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>104</positionNumber>
+    <fen>bnrbkrqn/pppppppp/8/8/8/8/PPPPPPPP/BNRBKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>105</positionNumber>
+    <fen>brnbnkqr/pppppppp/8/8/8/8/PPPPPPPP/BRNBNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>106</positionNumber>
+    <fen>brnbknqr/pppppppp/8/8/8/8/PPPPPPPP/BRNBKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>107</positionNumber>
+    <fen>brnbkrqn/pppppppp/8/8/8/8/PPPPPPPP/BRNBKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>108</positionNumber>
+    <fen>brkbnnqr/pppppppp/8/8/8/8/PPPPPPPP/BRKBNNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>109</positionNumber>
+    <fen>brkbnrqn/pppppppp/8/8/8/8/PPPPPPPP/BRKBNRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>110</positionNumber>
+    <fen>brkbrnqn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>111</positionNumber>
+    <fen>bnnbrkrq/pppppppp/8/8/8/8/PPPPPPPP/BNNBRKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>112</positionNumber>
+    <fen>bnrbnkrq/pppppppp/8/8/8/8/PPPPPPPP/BNRBNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>113</positionNumber>
+    <fen>bnrbknrq/pppppppp/8/8/8/8/PPPPPPPP/BNRBKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>114</positionNumber>
+    <fen>bnrbkrnq/pppppppp/8/8/8/8/PPPPPPPP/BNRBKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>115</positionNumber>
+    <fen>brnbnkrq/pppppppp/8/8/8/8/PPPPPPPP/BRNBNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>116</positionNumber>
+    <fen>brnbknrq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>117</positionNumber>
+    <fen>brnbkrnq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>118</positionNumber>
+    <fen>brkbnnrq/pppppppp/8/8/8/8/PPPPPPPP/BRKBNNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>119</positionNumber>
+    <fen>brkbnrnq/pppppppp/8/8/8/8/PPPPPPPP/BRKBNRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>120</positionNumber>
+    <fen>brkbnrnq/pppppppp/8/8/8/8/PPPPPPPP/BRKBNRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>121</positionNumber>
+    <fen>bqnnrbkr/pppppppp/8/8/8/8/PPPPPPPP/BQNNRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>122</positionNumber>
+    <fen>bqnrnbkr/pppppppp/8/8/8/8/PPPPPPPP/BQNRNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>123</positionNumber>
+    <fen>bqnrkbnr/pppppppp/8/8/8/8/PPPPPPPP/BQNRKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>124</positionNumber>
+    <fen>bqnrkbrn/pppppppp/8/8/8/8/PPPPPPPP/BQNRKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>125</positionNumber>
+    <fen>bqrnnbkr/pppppppp/8/8/8/8/PPPPPPPP/BQRNNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>126</positionNumber>
+    <fen>bqrnkbnr/pppppppp/8/8/8/8/PPPPPPPP/BQRNKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>127</positionNumber>
+    <fen>bqrnkbrn/pppppppp/8/8/8/8/PPPPPPPP/BQRNKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>128</positionNumber>
+    <fen>bqrknbnr/pppppppp/8/8/8/8/PPPPPPPP/BQRKNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>129</positionNumber>
+    <fen>bqrknbrn/pppppppp/8/8/8/8/PPPPPPPP/BQRKNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>130</positionNumber>
+    <fen>bqrkrbnn/pppppppp/8/8/8/8/PPPPPPPP/BQRKRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>131</positionNumber>
+    <fen>bnqnrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNQNRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>132</positionNumber>
+    <fen>bnqrnbkr/pppppppp/8/8/8/8/PPPPPPPP/BNQRNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>133</positionNumber>
+    <fen>bnqrkbnr/pppppppp/8/8/8/8/PPPPPPPP/BNQRKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>134</positionNumber>
+    <fen>bnqrkbrn/pppppppp/8/8/8/8/PPPPPPPP/BNQRKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>135</positionNumber>
+    <fen>brqnnbkr/pppppppp/8/8/8/8/PPPPPPPP/BRQNNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>136</positionNumber>
+    <fen>brqnkbnr/pppppppp/8/8/8/8/PPPPPPPP/BRQNKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>137</positionNumber>
+    <fen>brqnkbrn/pppppppp/8/8/8/8/PPPPPPPP/BRQNKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>138</positionNumber>
+    <fen>brqknbnr/pppppppp/8/8/8/8/PPPPPPPP/BRQKNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>139</positionNumber>
+    <fen>brqknbrn/pppppppp/8/8/8/8/PPPPPPPP/BRQKNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>140</positionNumber>
+    <fen>brqkrbnn/pppppppp/8/8/8/8/PPPPPPPP/BRQKRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>141</positionNumber>
+    <fen>bnnqrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNQRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>142</positionNumber>
+    <fen>bnrqnbkr/pppppppp/8/8/8/8/PPPPPPPP/BNRQNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>143</positionNumber>
+    <fen>bnrqkbnr/pppppppp/8/8/8/8/PPPPPPPP/BNRQKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>144</positionNumber>
+    <fen>bnrqkbrn/pppppppp/8/8/8/8/PPPPPPPP/BNRQKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>145</positionNumber>
+    <fen>brnqnbkr/pppppppp/8/8/8/8/PPPPPPPP/BRNQNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>146</positionNumber>
+    <fen>brnqkbnr/pppppppp/8/8/8/8/PPPPPPPP/BRNQKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>147</positionNumber>
+    <fen>brnqkbrn/pppppppp/8/8/8/8/PPPPPPPP/BRNQKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>148</positionNumber>
+    <fen>brkqnbnr/pppppppp/8/8/8/8/PPPPPPPP/BRKQNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>149</positionNumber>
+    <fen>brkqnbrn/pppppppp/8/8/8/8/PPPPPPPP/BRKQNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>150</positionNumber>
+    <fen>brkqrbnn/pppppppp/8/8/8/8/PPPPPPPP/BRKQRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>151</positionNumber>
+    <fen>bnnrqbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNRQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>152</positionNumber>
+    <fen>bnrnqbkr/pppppppp/8/8/8/8/PPPPPPPP/BNRNQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>153</positionNumber>
+    <fen>bnrkqbnr/pppppppp/8/8/8/8/PPPPPPPP/BNRKQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>154</positionNumber>
+    <fen>bnrkqbrn/pppppppp/8/8/8/8/PPPPPPPP/BNRKQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>155</positionNumber>
+    <fen>brnnqbkr/pppppppp/8/8/8/8/PPPPPPPP/BRNNQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>156</positionNumber>
+    <fen>brnkqbnr/pppppppp/8/8/8/8/PPPPPPPP/BRNKQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>157</positionNumber>
+    <fen>brnkqbrn/pppppppp/8/8/8/8/PPPPPPPP/BRNKQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>158</positionNumber>
+    <fen>brknqbnr/pppppppp/8/8/8/8/PPPPPPPP/BRKNQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>159</positionNumber>
+    <fen>brknqbrn/pppppppp/8/8/8/8/PPPPPPPP/BRKNQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>160</positionNumber>
+    <fen>brkrqbnn/pppppppp/8/8/8/8/PPPPPPPP/BRKRQBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>161</positionNumber>
+    <fen>bnnrkbqr/pppppppp/8/8/8/8/PPPPPPPP/BNNRKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>162</positionNumber>
+    <fen>bnrnkbqr/pppppppp/8/8/8/8/PPPPPPPP/BNRNKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>163</positionNumber>
+    <fen>bnrknbqr/pppppppp/8/8/8/8/PPPPPPPP/BNRKNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>164</positionNumber>
+    <fen>bnrkrbqn/pppppppp/8/8/8/8/PPPPPPPP/BNRKRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>165</positionNumber>
+    <fen>brnnkbqr/pppppppp/8/8/8/8/PPPPPPPP/BRNNKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>166</positionNumber>
+    <fen>brnknbqr/pppppppp/8/8/8/8/PPPPPPPP/BRNKNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>167</positionNumber>
+    <fen>brnkrbqn/pppppppp/8/8/8/8/PPPPPPPP/BRNKRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>168</positionNumber>
+    <fen>brknnbqr/pppppppp/8/8/8/8/PPPPPPPP/BRKNNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>169</positionNumber>
+    <fen>brknrbqn/pppppppp/8/8/8/8/PPPPPPPP/BRKNRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>170</positionNumber>
+    <fen>brkrnbqn/pppppppp/8/8/8/8/PPPPPPPP/BRKRNBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>171</positionNumber>
+    <fen>bnnrkbrq/pppppppp/8/8/8/8/PPPPPPPP/BNNRKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>172</positionNumber>
+    <fen>bnrnkbrq/pppppppp/8/8/8/8/PPPPPPPP/BNRNKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>173</positionNumber>
+    <fen>bnrknbrq/pppppppp/8/8/8/8/PPPPPPPP/BNRKNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>174</positionNumber>
+    <fen>bnrkrbnq/pppppppp/8/8/8/8/PPPPPPPP/BNRKRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>175</positionNumber>
+    <fen>brnnkbrq/pppppppp/8/8/8/8/PPPPPPPP/BRNNKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>176</positionNumber>
+    <fen>brnknbrq/pppppppp/8/8/8/8/PPPPPPPP/BRNKNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>177</positionNumber>
+    <fen>brnkrbnq/pppppppp/8/8/8/8/PPPPPPPP/BRNKRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>178</positionNumber>
+    <fen>brknnbrq/pppppppp/8/8/8/8/PPPPPPPP/BRKNNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>179</positionNumber>
+    <fen>brknrbnq/pppppppp/8/8/8/8/PPPPPPPP/BRKNRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>180</positionNumber>
+    <fen>brkrnbnq/pppppppp/8/8/8/8/PPPPPPPP/BRKRNBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>181</positionNumber>
+    <fen>bqnnrkrb/pppppppp/8/8/8/8/PPPPPPPP/BQNNRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>182</positionNumber>
+    <fen>bqnrnkrb/pppppppp/8/8/8/8/PPPPPPPP/BQNRNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>183</positionNumber>
+    <fen>bqnrknrb/pppppppp/8/8/8/8/PPPPPPPP/BQNRKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>184</positionNumber>
+    <fen>bqnrkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQNRKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>185</positionNumber>
+    <fen>bqrnnkrb/pppppppp/8/8/8/8/PPPPPPPP/BQRNNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>186</positionNumber>
+    <fen>bqrnknrb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>187</positionNumber>
+    <fen>bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>188</positionNumber>
+    <fen>bqrknnrb/pppppppp/8/8/8/8/PPPPPPPP/BQRKNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>189</positionNumber>
+    <fen>bqrknrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRKNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>190</positionNumber>
+    <fen>bqrkrnnb/pppppppp/8/8/8/8/PPPPPPPP/BQRKRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>191</positionNumber>
+    <fen>bnqnrkrb/pppppppp/8/8/8/8/PPPPPPPP/BNQNRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>192</positionNumber>
+    <fen>bnqrnkrb/pppppppp/8/8/8/8/PPPPPPPP/BNQRNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>193</positionNumber>
+    <fen>bnqrknrb/pppppppp/8/8/8/8/PPPPPPPP/BNQRKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>194</positionNumber>
+    <fen>bnqrkrnb/pppppppp/8/8/8/8/PPPPPPPP/BNQRKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>195</positionNumber>
+    <fen>brqnnkrb/pppppppp/8/8/8/8/PPPPPPPP/BRQNNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>196</positionNumber>
+    <fen>brqnknrb/pppppppp/8/8/8/8/PPPPPPPP/BRQNKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>197</positionNumber>
+    <fen>brqnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BRQNKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>198</positionNumber>
+    <fen>brqknnrb/pppppppp/8/8/8/8/PPPPPPPP/BRQKNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>199</positionNumber>
+    <fen>brqknrnb/pppppppp/8/8/8/8/PPPPPPPP/BRQKNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>200</positionNumber>
+    <fen>brqkrnnb/pppppppp/8/8/8/8/PPPPPPPP/BRQKRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>201</positionNumber>
+    <fen>bnnqrkrb/pppppppp/8/8/8/8/PPPPPPPP/BNNQRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>202</positionNumber>
+    <fen>bnrqnkrb/pppppppp/8/8/8/8/PPPPPPPP/BNRQNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>203</positionNumber>
+    <fen>bnrqknrb/pppppppp/8/8/8/8/PPPPPPPP/BNRQKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>204</positionNumber>
+    <fen>bnrqkrnb/pppppppp/8/8/8/8/PPPPPPPP/BNRQKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>205</positionNumber>
+    <fen>brnqnkrb/pppppppp/8/8/8/8/PPPPPPPP/BRNQNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>206</positionNumber>
+    <fen>brnqknrb/pppppppp/8/8/8/8/PPPPPPPP/BRNQKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>207</positionNumber>
+    <fen>brnqkrnb/pppppppp/8/8/8/8/PPPPPPPP/BRNQKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>208</positionNumber>
+    <fen>brkqnnrb/pppppppp/8/8/8/8/PPPPPPPP/BRKQNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>209</positionNumber>
+    <fen>brkqnrnb/pppppppp/8/8/8/8/PPPPPPPP/BRKQNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>210</positionNumber>
+    <fen>brkqrnnb/pppppppp/8/8/8/8/PPPPPPPP/BRKQRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>211</positionNumber>
+    <fen>bnnrqkrb/pppppppp/8/8/8/8/PPPPPPPP/BNNRQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>212</positionNumber>
+    <fen>bnrnqkrb/pppppppp/8/8/8/8/PPPPPPPP/BNRNQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>213</positionNumber>
+    <fen>bnrkqnrb/pppppppp/8/8/8/8/PPPPPPPP/BNRKQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>214</positionNumber>
+    <fen>bnrkqrnb/pppppppp/8/8/8/8/PPPPPPPP/BNRKQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>215</positionNumber>
+    <fen>brnnqkrb/pppppppp/8/8/8/8/PPPPPPPP/BRNNQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>216</positionNumber>
+    <fen>brnkqnrb/pppppppp/8/8/8/8/PPPPPPPP/BRNKQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>217</positionNumber>
+    <fen>brnkqrnb/pppppppp/8/8/8/8/PPPPPPPP/BRNKQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>218</positionNumber>
+    <fen>brknqnrb/pppppppp/8/8/8/8/PPPPPPPP/BRKNQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>219</positionNumber>
+    <fen>brknqrnb/pppppppp/8/8/8/8/PPPPPPPP/BRKNQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>220</positionNumber>
+    <fen>brkrqnnb/pppppppp/8/8/8/8/PPPPPPPP/BRKRQNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>221</positionNumber>
+    <fen>bnnrkqrb/pppppppp/8/8/8/8/PPPPPPPP/BNNRKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>222</positionNumber>
+    <fen>bnrnkqrb/pppppppp/8/8/8/8/PPPPPPPP/BNRNKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>223</positionNumber>
+    <fen>bnrknqrb/pppppppp/8/8/8/8/PPPPPPPP/BNRKNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>224</positionNumber>
+    <fen>bnrkrqnb/pppppppp/8/8/8/8/PPPPPPPP/BNRKRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>225</positionNumber>
+    <fen>brnnkqrb/pppppppp/8/8/8/8/PPPPPPPP/BRNNKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>226</positionNumber>
+    <fen>brnknqrb/pppppppp/8/8/8/8/PPPPPPPP/BRNKNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>227</positionNumber>
+    <fen>brnkrqnb/pppppppp/8/8/8/8/PPPPPPPP/BRNKRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>228</positionNumber>
+    <fen>brknnqrb/pppppppp/8/8/8/8/PPPPPPPP/BRKNNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>229</positionNumber>
+    <fen>brknrqnb/pppppppp/8/8/8/8/PPPPPPPP/BRKNRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>230</positionNumber>
+    <fen>brkrnqnb/pppppppp/8/8/8/8/PPPPPPPP/BRKRNQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>231</positionNumber>
+    <fen>bnnrkrqb/pppppppp/8/8/8/8/PPPPPPPP/BNNRKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>232</positionNumber>
+    <fen>bnrnkrqb/pppppppp/8/8/8/8/PPPPPPPP/BNRNKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>233</positionNumber>
+    <fen>bnrknrqb/pppppppp/8/8/8/8/PPPPPPPP/BNRKNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>234</positionNumber>
+    <fen>bnrkrnqb/pppppppp/8/8/8/8/PPPPPPPP/BNRKRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>235</positionNumber>
+    <fen>brnnkrqb/pppppppp/8/8/8/8/PPPPPPPP/BRNNKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>236</positionNumber>
+    <fen>brnknrqb/pppppppp/8/8/8/8/PPPPPPPP/BRNKNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>237</positionNumber>
+    <fen>brnkrnqb/pppppppp/8/8/8/8/PPPPPPPP/BRNKRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>238</positionNumber>
+    <fen>brknnrqb/pppppppp/8/8/8/8/PPPPPPPP/BRKNNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>239</positionNumber>
+    <fen>brknrnqb/pppppppp/8/8/8/8/PPPPPPPP/BRKNRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>240</positionNumber>
+    <fen>brkrnnqb/pppppppp/8/8/8/8/PPPPPPPP/BRKRNNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>241</positionNumber>
+    <fen>qbbnnrkr/pppppppp/8/8/8/8/PPPPPPPP/QBBNNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>242</positionNumber>
+    <fen>qbbnrnkr/pppppppp/8/8/8/8/PPPPPPPP/QBBNRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>243</positionNumber>
+    <fen>qbbnrknr/pppppppp/8/8/8/8/PPPPPPPP/QBBNRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>244</positionNumber>
+    <fen>qbbnrkrn/pppppppp/8/8/8/8/PPPPPPPP/QBBNRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>245</positionNumber>
+    <fen>qbbrnnkr/pppppppp/8/8/8/8/PPPPPPPP/QBBRNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>246</positionNumber>
+    <fen>qbbrnknr/pppppppp/8/8/8/8/PPPPPPPP/QBBRNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>247</positionNumber>
+    <fen>qbbrnkrn/pppppppp/8/8/8/8/PPPPPPPP/QBBRNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>248</positionNumber>
+    <fen>qbbrknnr/pppppppp/8/8/8/8/PPPPPPPP/QBBRKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>249</positionNumber>
+    <fen>qbbrknrn/pppppppp/8/8/8/8/PPPPPPPP/QBBRKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>250</positionNumber>
+    <fen>qbbrkrnn/pppppppp/8/8/8/8/PPPPPPPP/QBBRKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>251</positionNumber>
+    <fen>nbbqnrkr/pppppppp/8/8/8/8/PPPPPPPP/NBBQNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>252</positionNumber>
+    <fen>nbbqrnkr/pppppppp/8/8/8/8/PPPPPPPP/NBBQRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>253</positionNumber>
+    <fen>nbbqrknr/pppppppp/8/8/8/8/PPPPPPPP/NBBQRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>254</positionNumber>
+    <fen>nbbqrkrn/pppppppp/8/8/8/8/PPPPPPPP/NBBQRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>255</positionNumber>
+    <fen>rbbqnnkr/pppppppp/8/8/8/8/PPPPPPPP/RBBQNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>256</positionNumber>
+    <fen>rbbqnknr/pppppppp/8/8/8/8/PPPPPPPP/RBBQNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>257</positionNumber>
+    <fen>rbbqnkrn/pppppppp/8/8/8/8/PPPPPPPP/RBBQNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>258</positionNumber>
+    <fen>rbbqknnr/pppppppp/8/8/8/8/PPPPPPPP/RBBQKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>259</positionNumber>
+    <fen>rbbqknrn/pppppppp/8/8/8/8/PPPPPPPP/RBBQKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>260</positionNumber>
+    <fen>rbbqkrnn/pppppppp/8/8/8/8/PPPPPPPP/RBBQKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>261</positionNumber>
+    <fen>nbbnqrkr/pppppppp/8/8/8/8/PPPPPPPP/NBBNQRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>262</positionNumber>
+    <fen>nbbrqnkr/pppppppp/8/8/8/8/PPPPPPPP/NBBRQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>263</positionNumber>
+    <fen>nbbrqknr/pppppppp/8/8/8/8/PPPPPPPP/NBBRQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>264</positionNumber>
+    <fen>nbbrqkrn/pppppppp/8/8/8/8/PPPPPPPP/NBBRQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>265</positionNumber>
+    <fen>rbbnqnkr/pppppppp/8/8/8/8/PPPPPPPP/RBBNQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>266</positionNumber>
+    <fen>rbbnqknr/pppppppp/8/8/8/8/PPPPPPPP/RBBNQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>267</positionNumber>
+    <fen>rbbnqkrn/pppppppp/8/8/8/8/PPPPPPPP/RBBNQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>268</positionNumber>
+    <fen>rbbkqnnr/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>269</positionNumber>
+    <fen>rbbkqnrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>270</positionNumber>
+    <fen>rbbkqrnn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>271</positionNumber>
+    <fen>nbbnrqkr/pppppppp/8/8/8/8/PPPPPPPP/NBBNRQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>272</positionNumber>
+    <fen>nbbrnqkr/pppppppp/8/8/8/8/PPPPPPPP/NBBRNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>273</positionNumber>
+    <fen>nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>274</positionNumber>
+    <fen>nbbrkqrn/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>275</positionNumber>
+    <fen>rbbnnqkr/pppppppp/8/8/8/8/PPPPPPPP/RBBNNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>276</positionNumber>
+    <fen>rbbnkqnr/pppppppp/8/8/8/8/PPPPPPPP/RBBNKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>277</positionNumber>
+    <fen>rbbnkqrn/pppppppp/8/8/8/8/PPPPPPPP/RBBNKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>278</positionNumber>
+    <fen>rbbknqnr/pppppppp/8/8/8/8/PPPPPPPP/RBBKNQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>279</positionNumber>
+    <fen>rbbknqrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKNQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>280</positionNumber>
+    <fen>rbbkrqnn/pppppppp/8/8/8/8/PPPPPPPP/RBBKRQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>281</positionNumber>
+    <fen>nbbnrkqr/pppppppp/8/8/8/8/PPPPPPPP/NBBNRKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>282</positionNumber>
+    <fen>nbbrnkqr/pppppppp/8/8/8/8/PPPPPPPP/NBBRNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>283</positionNumber>
+    <fen>nbbrknqr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>284</positionNumber>
+    <fen>nbbrkrqn/pppppppp/8/8/8/8/PPPPPPPP/NBBRKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>285</positionNumber>
+    <fen>rbbnnkqr/pppppppp/8/8/8/8/PPPPPPPP/RBBNNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>286</positionNumber>
+    <fen>rbbnknqr/pppppppp/8/8/8/8/PPPPPPPP/RBBNKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>287</positionNumber>
+    <fen>rbbnkrqn/pppppppp/8/8/8/8/PPPPPPPP/RBBNKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>288</positionNumber>
+    <fen>rbbknnqr/pppppppp/8/8/8/8/PPPPPPPP/RBBKNNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>289</positionNumber>
+    <fen>rbbknrqn/pppppppp/8/8/8/8/PPPPPPPP/RBBKNRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>290</positionNumber>
+    <fen>rbbkrnqn/pppppppp/8/8/8/8/PPPPPPPP/RBBKRNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>291</positionNumber>
+    <fen>nbbnrkrq/pppppppp/8/8/8/8/PPPPPPPP/NBBNRKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>292</positionNumber>
+    <fen>nbbrnkrq/pppppppp/8/8/8/8/PPPPPPPP/NBBRNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>293</positionNumber>
+    <fen>nbbrknrq/pppppppp/8/8/8/8/PPPPPPPP/NBBRKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>294</positionNumber>
+    <fen>nbbrkrnq/pppppppp/8/8/8/8/PPPPPPPP/NBBRKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>295</positionNumber>
+    <fen>rbbnnkrq/pppppppp/8/8/8/8/PPPPPPPP/RBBNNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>296</positionNumber>
+    <fen>rbbnknrq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>297</positionNumber>
+    <fen>rbbnkrnq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>298</positionNumber>
+    <fen>rbbknnrq/pppppppp/8/8/8/8/PPPPPPPP/RBBKNNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>299</positionNumber>
+    <fen>rbbknrnq/pppppppp/8/8/8/8/PPPPPPPP/RBBKNRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>300</positionNumber>
+    <fen>rbbkrnnq/pppppppp/8/8/8/8/PPPPPPPP/RBBKRNNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>301</positionNumber>
+    <fen>qnbbnrkr/pppppppp/8/8/8/8/PPPPPPPP/QNBBNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>302</positionNumber>
+    <fen>qnbbrnkr/pppppppp/8/8/8/8/PPPPPPPP/QNBBRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>303</positionNumber>
+    <fen>qnbbrknr/pppppppp/8/8/8/8/PPPPPPPP/QNBBRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>304</positionNumber>
+    <fen>qnbbrkrn/pppppppp/8/8/8/8/PPPPPPPP/QNBBRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>305</positionNumber>
+    <fen>qrbbnnkr/pppppppp/8/8/8/8/PPPPPPPP/QRBBNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>306</positionNumber>
+    <fen>qrbbnknr/pppppppp/8/8/8/8/PPPPPPPP/QRBBNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>307</positionNumber>
+    <fen>qrbbnkrn/pppppppp/8/8/8/8/PPPPPPPP/QRBBNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>308</positionNumber>
+    <fen>qrbbknnr/pppppppp/8/8/8/8/PPPPPPPP/QRBBKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>309</positionNumber>
+    <fen>qrbbknrn/pppppppp/8/8/8/8/PPPPPPPP/QRBBKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>310</positionNumber>
+    <fen>qrbbkrnn/pppppppp/8/8/8/8/PPPPPPPP/QRBBKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>311</positionNumber>
+    <fen>nqbbnrkr/pppppppp/8/8/8/8/PPPPPPPP/NQBBNRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>312</positionNumber>
+    <fen>nqbbrnkr/pppppppp/8/8/8/8/PPPPPPPP/NQBBRNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>313</positionNumber>
+    <fen>nqbbrknr/pppppppp/8/8/8/8/PPPPPPPP/NQBBRKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>314</positionNumber>
+    <fen>nqbbrkrn/pppppppp/8/8/8/8/PPPPPPPP/NQBBRKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>315</positionNumber>
+    <fen>rqbbnnkr/pppppppp/8/8/8/8/PPPPPPPP/RQBBNNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>316</positionNumber>
+    <fen>rqbbnknr/pppppppp/8/8/8/8/PPPPPPPP/RQBBNKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>317</positionNumber>
+    <fen>rqbbnkrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBNKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>318</positionNumber>
+    <fen>rqbbknnr/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>319</positionNumber>
+    <fen>rqbbknrn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>320</positionNumber>
+    <fen>rqbbkrnn/pppppppp/8/8/8/8/PPPPPPPP/RQBBKRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>321</positionNumber>
+    <fen>nnbbqrkr/pppppppp/8/8/8/8/PPPPPPPP/NNBBQRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>322</positionNumber>
+    <fen>nrbbqnkr/pppppppp/8/8/8/8/PPPPPPPP/NRBBQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>323</positionNumber>
+    <fen>nrbbqknr/pppppppp/8/8/8/8/PPPPPPPP/NRBBQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>324</positionNumber>
+    <fen>nrbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/NRBBQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>325</positionNumber>
+    <fen>rnbbqnkr/pppppppp/8/8/8/8/PPPPPPPP/RNBBQNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>326</positionNumber>
+    <fen>rnbbqknr/pppppppp/8/8/8/8/PPPPPPPP/RNBBQKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>327</positionNumber>
+    <fen>rnbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/RNBBQKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>328</positionNumber>
+    <fen>rkbbqnnr/pppppppp/8/8/8/8/PPPPPPPP/RKBBQNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>329</positionNumber>
+    <fen>rkbbqnrn/pppppppp/8/8/8/8/PPPPPPPP/RKBBQNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>330</positionNumber>
+    <fen>rkbbqrnn/pppppppp/8/8/8/8/PPPPPPPP/RKBBQRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>331</positionNumber>
+    <fen>nnbbrqkr/pppppppp/8/8/8/8/PPPPPPPP/NNBBRQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>332</positionNumber>
+    <fen>nrbbnqkr/pppppppp/8/8/8/8/PPPPPPPP/NRBBNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>333</positionNumber>
+    <fen>nrbbkqnr/pppppppp/8/8/8/8/PPPPPPPP/NRBBKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>334</positionNumber>
+    <fen>nrbbkqrn/pppppppp/8/8/8/8/PPPPPPPP/NRBBKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>335</positionNumber>
+    <fen>rnbbnqkr/pppppppp/8/8/8/8/PPPPPPPP/RNBBNQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>336</positionNumber>
+    <fen>rnbbkqnr/pppppppp/8/8/8/8/PPPPPPPP/RNBBKQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>337</positionNumber>
+    <fen>rnbbkqrn/pppppppp/8/8/8/8/PPPPPPPP/RNBBKQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>338</positionNumber>
+    <fen>rkbbnqnr/pppppppp/8/8/8/8/PPPPPPPP/RKBBNQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>339</positionNumber>
+    <fen>rkbbnqrn/pppppppp/8/8/8/8/PPPPPPPP/RKBBNQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>340</positionNumber>
+    <fen>rkbbrqnn/pppppppp/8/8/8/8/PPPPPPPP/RKBBRQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>341</positionNumber>
+    <fen>nnbbrkqr/pppppppp/8/8/8/8/PPPPPPPP/NNBBRKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>342</positionNumber>
+    <fen>nrbbnkqr/pppppppp/8/8/8/8/PPPPPPPP/NRBBNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>343</positionNumber>
+    <fen>nrbbknqr/pppppppp/8/8/8/8/PPPPPPPP/NRBBKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>344</positionNumber>
+    <fen>nrbbkrqn/pppppppp/8/8/8/8/PPPPPPPP/NRBBKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>345</positionNumber>
+    <fen>rnbbnkqr/pppppppp/8/8/8/8/PPPPPPPP/RNBBNKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>346</positionNumber>
+    <fen>rnbbknqr/pppppppp/8/8/8/8/PPPPPPPP/RNBBKNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>347</positionNumber>
+    <fen>rnbbkrqn/pppppppp/8/8/8/8/PPPPPPPP/RNBBKRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>348</positionNumber>
+    <fen>rkbbnnqr/pppppppp/8/8/8/8/PPPPPPPP/RKBBNNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>349</positionNumber>
+    <fen>rkbbnrqn/pppppppp/8/8/8/8/PPPPPPPP/RKBBNRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>350</positionNumber>
+    <fen>rkbbrnqn/pppppppp/8/8/8/8/PPPPPPPP/RKBBRNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>351</positionNumber>
+    <fen>nnbbrkrq/pppppppp/8/8/8/8/PPPPPPPP/NNBBRKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>352</positionNumber>
+    <fen>nrbbnkrq/pppppppp/8/8/8/8/PPPPPPPP/NRBBNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>353</positionNumber>
+    <fen>nrbbknrq/pppppppp/8/8/8/8/PPPPPPPP/NRBBKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>354</positionNumber>
+    <fen>nrbbkrnq/pppppppp/8/8/8/8/PPPPPPPP/NRBBKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>355</positionNumber>
+    <fen>rnbbnkrq/pppppppp/8/8/8/8/PPPPPPPP/RNBBNKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>356</positionNumber>
+    <fen>rnbbknrq/pppppppp/8/8/8/8/PPPPPPPP/RNBBKNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>357</positionNumber>
+    <fen>rnbbkrnq/pppppppp/8/8/8/8/PPPPPPPP/RNBBKRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>358</positionNumber>
+    <fen>rkbbnnrq/pppppppp/8/8/8/8/PPPPPPPP/RKBBNNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>359</positionNumber>
+    <fen>rkbbnrnq/pppppppp/8/8/8/8/PPPPPPPP/RKBBNRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>360</positionNumber>
+    <fen>rkbbrnnq/pppppppp/8/8/8/8/PPPPPPPP/RKBBRNNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>361</positionNumber>
+    <fen>qnbnrbkr/pppppppp/8/8/8/8/PPPPPPPP/QNBNRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>362</positionNumber>
+    <fen>qnbrnbkr/pppppppp/8/8/8/8/PPPPPPPP/QNBRNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>363</positionNumber>
+    <fen>qnbrkbnr/pppppppp/8/8/8/8/PPPPPPPP/QNBRKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>364</positionNumber>
+    <fen>qnbrkbrn/pppppppp/8/8/8/8/PPPPPPPP/QNBRKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>365</positionNumber>
+    <fen>qrbnnbkr/pppppppp/8/8/8/8/PPPPPPPP/QRBNNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>366</positionNumber>
+    <fen>qrbnkbnr/pppppppp/8/8/8/8/PPPPPPPP/QRBNKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>367</positionNumber>
+    <fen>qrbnkbrn/pppppppp/8/8/8/8/PPPPPPPP/QRBNKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>368</positionNumber>
+    <fen>qrbknbnr/pppppppp/8/8/8/8/PPPPPPPP/QRBKNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>369</positionNumber>
+    <fen>qrbknbrn/pppppppp/8/8/8/8/PPPPPPPP/QRBKNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>370</positionNumber>
+    <fen>qrbkrbnn/pppppppp/8/8/8/8/PPPPPPPP/QRBKRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>371</positionNumber>
+    <fen>nqbnrbkr/pppppppp/8/8/8/8/PPPPPPPP/NQBNRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>372</positionNumber>
+    <fen>nqbrnbkr/pppppppp/8/8/8/8/PPPPPPPP/NQBRNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>373</positionNumber>
+    <fen>nqbrkbnr/pppppppp/8/8/8/8/PPPPPPPP/NQBRKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>374</positionNumber>
+    <fen>nqbrkbrn/pppppppp/8/8/8/8/PPPPPPPP/NQBRKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>375</positionNumber>
+    <fen>rqbnnbkr/pppppppp/8/8/8/8/PPPPPPPP/RQBNNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>376</positionNumber>
+    <fen>rqbnkbnr/pppppppp/8/8/8/8/PPPPPPPP/RQBNKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>377</positionNumber>
+    <fen>rqbnkbrn/pppppppp/8/8/8/8/PPPPPPPP/RQBNKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>378</positionNumber>
+    <fen>rqbknbnr/pppppppp/8/8/8/8/PPPPPPPP/RQBKNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>379</positionNumber>
+    <fen>rqbknbrn/pppppppp/8/8/8/8/PPPPPPPP/RQBKNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>380</positionNumber>
+    <fen>rqbkrbnn/pppppppp/8/8/8/8/PPPPPPPP/RQBKRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>381</positionNumber>
+    <fen>nnbqrbkr/pppppppp/8/8/8/8/PPPPPPPP/NNBQRBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>382</positionNumber>
+    <fen>nrbqnbkr/pppppppp/8/8/8/8/PPPPPPPP/NRBQNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>383</positionNumber>
+    <fen>nrbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/NRBQKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>384</positionNumber>
+    <fen>nrbqkbrn/pppppppp/8/8/8/8/PPPPPPPP/NRBQKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>385</positionNumber>
+    <fen>rnbqnbkr/pppppppp/8/8/8/8/PPPPPPPP/RNBQNBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>386</positionNumber>
+    <fen>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>387</positionNumber>
+    <fen>rnbqkbrn/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>388</positionNumber>
+    <fen>rkbqnbnr/pppppppp/8/8/8/8/PPPPPPPP/RKBQNBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>389</positionNumber>
+    <fen>rkbqnbrn/pppppppp/8/8/8/8/PPPPPPPP/RKBQNBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>390</positionNumber>
+    <fen>rkbqrbnn/pppppppp/8/8/8/8/PPPPPPPP/RKBQRBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>391</positionNumber>
+    <fen>nnbrqbkr/pppppppp/8/8/8/8/PPPPPPPP/NNBRQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>392</positionNumber>
+    <fen>nrbnqbkr/pppppppp/8/8/8/8/PPPPPPPP/NRBNQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>393</positionNumber>
+    <fen>nrbkqbnr/pppppppp/8/8/8/8/PPPPPPPP/NRBKQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>394</positionNumber>
+    <fen>nrbkqbrn/pppppppp/8/8/8/8/PPPPPPPP/NRBKQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>395</positionNumber>
+    <fen>rnbnqbkr/pppppppp/8/8/8/8/PPPPPPPP/RNBNQBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>396</positionNumber>
+    <fen>rnbkqbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBKQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>397</positionNumber>
+    <fen>rnbkqbrn/pppppppp/8/8/8/8/PPPPPPPP/RNBKQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>398</positionNumber>
+    <fen>rkbnqbnr/pppppppp/8/8/8/8/PPPPPPPP/RKBNQBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>399</positionNumber>
+    <fen>rkbnqbrn/pppppppp/8/8/8/8/PPPPPPPP/RKBNQBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>400</positionNumber>
+    <fen>rkbrqbnn/pppppppp/8/8/8/8/PPPPPPPP/RKBRQBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>401</positionNumber>
+    <fen>nnbrkbqr/pppppppp/8/8/8/8/PPPPPPPP/NNBRKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>402</positionNumber>
+    <fen>nrbnkbqr/pppppppp/8/8/8/8/PPPPPPPP/NRBNKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>403</positionNumber>
+    <fen>nrbknbqr/pppppppp/8/8/8/8/PPPPPPPP/NRBKNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>404</positionNumber>
+    <fen>nrbkrbqn/pppppppp/8/8/8/8/PPPPPPPP/NRBKRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>405</positionNumber>
+    <fen>rnbnkbqr/pppppppp/8/8/8/8/PPPPPPPP/RNBNKBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>406</positionNumber>
+    <fen>rnbknbqr/pppppppp/8/8/8/8/PPPPPPPP/RNBKNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>407</positionNumber>
+    <fen>rnbkrbqn/pppppppp/8/8/8/8/PPPPPPPP/RNBKRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>408</positionNumber>
+    <fen>rkbnnbqr/pppppppp/8/8/8/8/PPPPPPPP/RKBNNBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>409</positionNumber>
+    <fen>rkbnrbqn/pppppppp/8/8/8/8/PPPPPPPP/RKBNRBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>410</positionNumber>
+    <fen>rkbrnbqn/pppppppp/8/8/8/8/PPPPPPPP/RKBRNBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>411</positionNumber>
+    <fen>nnbrkbrq/pppppppp/8/8/8/8/PPPPPPPP/NNBRKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>412</positionNumber>
+    <fen>nrbnkbrq/pppppppp/8/8/8/8/PPPPPPPP/NRBNKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>413</positionNumber>
+    <fen>nrbknbrq/pppppppp/8/8/8/8/PPPPPPPP/NRBKNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>414</positionNumber>
+    <fen>nrbkrbnq/pppppppp/8/8/8/8/PPPPPPPP/NRBKRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>415</positionNumber>
+    <fen>rnbnkbrq/pppppppp/8/8/8/8/PPPPPPPP/RNBNKBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>416</positionNumber>
+    <fen>rnbknbrq/pppppppp/8/8/8/8/PPPPPPPP/RNBKNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>417</positionNumber>
+    <fen>rnbkrbnq/pppppppp/8/8/8/8/PPPPPPPP/RNBKRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>418</positionNumber>
+    <fen>rkbnnbrq/pppppppp/8/8/8/8/PPPPPPPP/RKBNNBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>419</positionNumber>
+    <fen>rkbnrbnq/pppppppp/8/8/8/8/PPPPPPPP/RKBNRBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>420</positionNumber>
+    <fen>rkbrnbnq/pppppppp/8/8/8/8/PPPPPPPP/RKBRNBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>421</positionNumber>
+    <fen>qnbnrkrb/pppppppp/8/8/8/8/PPPPPPPP/QNBNRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>422</positionNumber>
+    <fen>qnbrnkrb/pppppppp/8/8/8/8/PPPPPPPP/QNBRNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>423</positionNumber>
+    <fen>qnbrknrb/pppppppp/8/8/8/8/PPPPPPPP/QNBRKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>424</positionNumber>
+    <fen>qnbrkrnb/pppppppp/8/8/8/8/PPPPPPPP/QNBRKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>425</positionNumber>
+    <fen>qrbnnkrb/pppppppp/8/8/8/8/PPPPPPPP/QRBNNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>426</positionNumber>
+    <fen>qrbnknrb/pppppppp/8/8/8/8/PPPPPPPP/QRBNKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>427</positionNumber>
+    <fen>qrbnkrnb/pppppppp/8/8/8/8/PPPPPPPP/QRBNKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>428</positionNumber>
+    <fen>qrbknnrb/pppppppp/8/8/8/8/PPPPPPPP/QRBKNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>429</positionNumber>
+    <fen>qrbknrnb/pppppppp/8/8/8/8/PPPPPPPP/QRBKNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>430</positionNumber>
+    <fen>qrbkrnnb/pppppppp/8/8/8/8/PPPPPPPP/QRBKRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>431</positionNumber>
+    <fen>nqbnrkrb/pppppppp/8/8/8/8/PPPPPPPP/NQBNRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>432</positionNumber>
+    <fen>nqbrnkrb/pppppppp/8/8/8/8/PPPPPPPP/NQBRNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>433</positionNumber>
+    <fen>nqbrknrb/pppppppp/8/8/8/8/PPPPPPPP/NQBRKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>434</positionNumber>
+    <fen>nqbrkrnb/pppppppp/8/8/8/8/PPPPPPPP/NQBRKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>435</positionNumber>
+    <fen>rqbnnkrb/pppppppp/8/8/8/8/PPPPPPPP/RQBNNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>436</positionNumber>
+    <fen>rqbnknrb/pppppppp/8/8/8/8/PPPPPPPP/RQBNKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>437</positionNumber>
+    <fen>rqbnkrnb/pppppppp/8/8/8/8/PPPPPPPP/RQBNKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>438</positionNumber>
+    <fen>rqbknnrb/pppppppp/8/8/8/8/PPPPPPPP/RQBKNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>439</positionNumber>
+    <fen>rqbknrnb/pppppppp/8/8/8/8/PPPPPPPP/RQBKNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>440</positionNumber>
+    <fen>rqbkrnnb/pppppppp/8/8/8/8/PPPPPPPP/RQBKRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>441</positionNumber>
+    <fen>nnbqrkrb/pppppppp/8/8/8/8/PPPPPPPP/NNBQRKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>442</positionNumber>
+    <fen>nrbqnkrb/pppppppp/8/8/8/8/PPPPPPPP/NRBQNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>443</positionNumber>
+    <fen>nrbqknrb/pppppppp/8/8/8/8/PPPPPPPP/NRBQKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>444</positionNumber>
+    <fen>nrbqkrnb/pppppppp/8/8/8/8/PPPPPPPP/NRBQKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>445</positionNumber>
+    <fen>rnbqnkrb/pppppppp/8/8/8/8/PPPPPPPP/RNBQNKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>446</positionNumber>
+    <fen>rnbqknrb/pppppppp/8/8/8/8/PPPPPPPP/RNBQKNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>447</positionNumber>
+    <fen>rnbqkrnb/pppppppp/8/8/8/8/PPPPPPPP/RNBQKRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>448</positionNumber>
+    <fen>rkbqnnrb/pppppppp/8/8/8/8/PPPPPPPP/RKBQNNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>449</positionNumber>
+    <fen>rkbqnrnb/pppppppp/8/8/8/8/PPPPPPPP/RKBQNRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>450</positionNumber>
+    <fen>rkbqrnnb/pppppppp/8/8/8/8/PPPPPPPP/RKBQRNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>451</positionNumber>
+    <fen>nnbrqkrb/pppppppp/8/8/8/8/PPPPPPPP/NNBRQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>452</positionNumber>
+    <fen>nrbnqkrb/pppppppp/8/8/8/8/PPPPPPPP/NRBNQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>453</positionNumber>
+    <fen>nrbkqnrb/pppppppp/8/8/8/8/PPPPPPPP/NRBKQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>454</positionNumber>
+    <fen>nrbkqrnb/pppppppp/8/8/8/8/PPPPPPPP/NRBKQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>455</positionNumber>
+    <fen>rnbnqkrb/pppppppp/8/8/8/8/PPPPPPPP/RNBNQKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>456</positionNumber>
+    <fen>rnbkqnrb/pppppppp/8/8/8/8/PPPPPPPP/RNBKQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>457</positionNumber>
+    <fen>rnbkqrnb/pppppppp/8/8/8/8/PPPPPPPP/RNBKQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>458</positionNumber>
+    <fen>rkbnqnrb/pppppppp/8/8/8/8/PPPPPPPP/RKBNQNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>459</positionNumber>
+    <fen>rkbnqrnb/pppppppp/8/8/8/8/PPPPPPPP/RKBNQRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>460</positionNumber>
+    <fen>rkbrqnnb/pppppppp/8/8/8/8/PPPPPPPP/RKBRQNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>461</positionNumber>
+    <fen>nnbrkqrb/pppppppp/8/8/8/8/PPPPPPPP/NNBRKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>462</positionNumber>
+    <fen>nrbnkqrb/pppppppp/8/8/8/8/PPPPPPPP/NRBNKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>463</positionNumber>
+    <fen>nrbknqrb/pppppppp/8/8/8/8/PPPPPPPP/NRBKNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>464</positionNumber>
+    <fen>nrbkrqnb/pppppppp/8/8/8/8/PPPPPPPP/NRBKRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>465</positionNumber>
+    <fen>rnbnkqrb/pppppppp/8/8/8/8/PPPPPPPP/RNBNKQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>466</positionNumber>
+    <fen>rnbknqrb/pppppppp/8/8/8/8/PPPPPPPP/RNBKNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>467</positionNumber>
+    <fen>rnbkrqnb/pppppppp/8/8/8/8/PPPPPPPP/RNBKRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>468</positionNumber>
+    <fen>rkbnnqrb/pppppppp/8/8/8/8/PPPPPPPP/RKBNNQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>469</positionNumber>
+    <fen>rkbnrqnb/pppppppp/8/8/8/8/PPPPPPPP/RKBNRQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>470</positionNumber>
+    <fen>rkbrnqnb/pppppppp/8/8/8/8/PPPPPPPP/RKBRNQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>471</positionNumber>
+    <fen>nnbrkrqb/pppppppp/8/8/8/8/PPPPPPPP/NNBRKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>472</positionNumber>
+    <fen>nrbnkrqb/pppppppp/8/8/8/8/PPPPPPPP/NRBNKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>473</positionNumber>
+    <fen>nrbknrqb/pppppppp/8/8/8/8/PPPPPPPP/NRBKNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>474</positionNumber>
+    <fen>nrbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/NRBKRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>475</positionNumber>
+    <fen>rnbnkrqb/pppppppp/8/8/8/8/PPPPPPPP/RNBNKRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>476</positionNumber>
+    <fen>rnbknrqb/pppppppp/8/8/8/8/PPPPPPPP/RNBKNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>477</positionNumber>
+    <fen>rnbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/RNBKRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>478</positionNumber>
+    <fen>rkbnnrqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNNRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>479</positionNumber>
+    <fen>rkbnrnqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNRNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>480</positionNumber>
+    <fen>rkbrnnqb/pppppppp/8/8/8/8/PPPPPPPP/RKBRNNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>481</positionNumber>
+    <fen>qbnnbrkr/pppppppp/8/8/8/8/PPPPPPPP/QBNNBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>482</positionNumber>
+    <fen>qbnrbnkr/pppppppp/8/8/8/8/PPPPPPPP/QBNRBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>483</positionNumber>
+    <fen>qbnrbknr/pppppppp/8/8/8/8/PPPPPPPP/QBNRBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>484</positionNumber>
+    <fen>qbnrbkrn/pppppppp/8/8/8/8/PPPPPPPP/QBNRBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>485</positionNumber>
+    <fen>qbrnbnkr/pppppppp/8/8/8/8/PPPPPPPP/QBRNBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>486</positionNumber>
+    <fen>qbrnbknr/pppppppp/8/8/8/8/PPPPPPPP/QBRNBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>487</positionNumber>
+    <fen>qbrnbkrn/pppppppp/8/8/8/8/PPPPPPPP/QBRNBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>488</positionNumber>
+    <fen>qbrkbnnr/pppppppp/8/8/8/8/PPPPPPPP/QBRKBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>489</positionNumber>
+    <fen>qbrkbnrn/pppppppp/8/8/8/8/PPPPPPPP/QBRKBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>490</positionNumber>
+    <fen>qbrkbrnn/pppppppp/8/8/8/8/PPPPPPPP/QBRKBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>491</positionNumber>
+    <fen>nbqnbrkr/pppppppp/8/8/8/8/PPPPPPPP/NBQNBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>492</positionNumber>
+    <fen>nbqrbnkr/pppppppp/8/8/8/8/PPPPPPPP/NBQRBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>493</positionNumber>
+    <fen>nbqrbknr/pppppppp/8/8/8/8/PPPPPPPP/NBQRBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>494</positionNumber>
+    <fen>nbqrbkrn/pppppppp/8/8/8/8/PPPPPPPP/NBQRBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>495</positionNumber>
+    <fen>rbqnbnkr/pppppppp/8/8/8/8/PPPPPPPP/RBQNBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>496</positionNumber>
+    <fen>rbqnbknr/pppppppp/8/8/8/8/PPPPPPPP/RBQNBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>497</positionNumber>
+    <fen>rbqnbkrn/pppppppp/8/8/8/8/PPPPPPPP/RBQNBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>498</positionNumber>
+    <fen>rbqkbnnr/pppppppp/8/8/8/8/PPPPPPPP/RBQKBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>499</positionNumber>
+    <fen>rbqkbnrn/pppppppp/8/8/8/8/PPPPPPPP/RBQKBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>500</positionNumber>
+    <fen>rbqkbrnn/pppppppp/8/8/8/8/PPPPPPPP/RBQKBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>501</positionNumber>
+    <fen>nbnqbrkr/pppppppp/8/8/8/8/PPPPPPPP/NBNQBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>502</positionNumber>
+    <fen>nbrqbnkr/pppppppp/8/8/8/8/PPPPPPPP/NBRQBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>503</positionNumber>
+    <fen>nbrqbknr/pppppppp/8/8/8/8/PPPPPPPP/NBRQBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>504</positionNumber>
+    <fen>nbrqbkrn/pppppppp/8/8/8/8/PPPPPPPP/NBRQBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>505</positionNumber>
+    <fen>rbnqbnkr/pppppppp/8/8/8/8/PPPPPPPP/RBNQBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>506</positionNumber>
+    <fen>rbnqbknr/pppppppp/8/8/8/8/PPPPPPPP/RBNQBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>507</positionNumber>
+    <fen>rbnqbkrn/pppppppp/8/8/8/8/PPPPPPPP/RBNQBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>508</positionNumber>
+    <fen>rbkqbnnr/pppppppp/8/8/8/8/PPPPPPPP/RBKQBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>509</positionNumber>
+    <fen>rbkqbnrn/pppppppp/8/8/8/8/PPPPPPPP/RBKQBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>510</positionNumber>
+    <fen>rbkqbrnn/pppppppp/8/8/8/8/PPPPPPPP/RBKQBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>511</positionNumber>
+    <fen>nbnrbqkr/pppppppp/8/8/8/8/PPPPPPPP/NBNRBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>512</positionNumber>
+    <fen>nbrnbqkr/pppppppp/8/8/8/8/PPPPPPPP/NBRNBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>513</positionNumber>
+    <fen>nbrkbqnr/pppppppp/8/8/8/8/PPPPPPPP/NBRKBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>514</positionNumber>
+    <fen>nbrkbqrn/pppppppp/8/8/8/8/PPPPPPPP/NBRKBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>515</positionNumber>
+    <fen>rbnnbqkr/pppppppp/8/8/8/8/PPPPPPPP/RBNNBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>516</positionNumber>
+    <fen>rbnkbqnr/pppppppp/8/8/8/8/PPPPPPPP/RBNKBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>517</positionNumber>
+    <fen>rbnkbqrn/pppppppp/8/8/8/8/PPPPPPPP/RBNKBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>518</positionNumber>
+    <fen>rbknbqnr/pppppppp/8/8/8/8/PPPPPPPP/RBKNBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>519</positionNumber>
+    <fen>rbknbqrn/pppppppp/8/8/8/8/PPPPPPPP/RBKNBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>520</positionNumber>
+    <fen>rbkrbqnn/pppppppp/8/8/8/8/PPPPPPPP/RBKRBQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>521</positionNumber>
+    <fen>nbnrbkqr/pppppppp/8/8/8/8/PPPPPPPP/NBNRBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>522</positionNumber>
+    <fen>nbrnbkqr/pppppppp/8/8/8/8/PPPPPPPP/NBRNBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>523</positionNumber>
+    <fen>nbrkbnqr/pppppppp/8/8/8/8/PPPPPPPP/NBRKBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>524</positionNumber>
+    <fen>nbrkbrqn/pppppppp/8/8/8/8/PPPPPPPP/NBRKBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>525</positionNumber>
+    <fen>rbnnbkqr/pppppppp/8/8/8/8/PPPPPPPP/RBNNBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>526</positionNumber>
+    <fen>rbnkbnqr/pppppppp/8/8/8/8/PPPPPPPP/RBNKBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>527</positionNumber>
+    <fen>rbnkbrqn/pppppppp/8/8/8/8/PPPPPPPP/RBNKBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>528</positionNumber>
+    <fen>rbknbnqr/pppppppp/8/8/8/8/PPPPPPPP/RBKNBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>529</positionNumber>
+    <fen>rbknbrqn/pppppppp/8/8/8/8/PPPPPPPP/RBKNBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>530</positionNumber>
+    <fen>rbkrbnqn/pppppppp/8/8/8/8/PPPPPPPP/RBKRBNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>531</positionNumber>
+    <fen>nbnrbkrq/pppppppp/8/8/8/8/PPPPPPPP/NBNRBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>532</positionNumber>
+    <fen>nbrnbkrq/pppppppp/8/8/8/8/PPPPPPPP/NBRNBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>533</positionNumber>
+    <fen>nbrkbnrq/pppppppp/8/8/8/8/PPPPPPPP/NBRKBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>534</positionNumber>
+    <fen>nbrkbrnq/pppppppp/8/8/8/8/PPPPPPPP/NBRKBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>535</positionNumber>
+    <fen>rbnnbkrq/pppppppp/8/8/8/8/PPPPPPPP/RBNNBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>536</positionNumber>
+    <fen>rbnkbnrq/pppppppp/8/8/8/8/PPPPPPPP/RBNKBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>537</positionNumber>
+    <fen>rbnkbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBNKBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>538</positionNumber>
+    <fen>rbknbnrq/pppppppp/8/8/8/8/PPPPPPPP/RBKNBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>539</positionNumber>
+    <fen>rbknbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBKNBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>540</positionNumber>
+    <fen>rbkrbnnq/pppppppp/8/8/8/8/PPPPPPPP/RBKRBNNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>541</positionNumber>
+    <fen>qnnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/QNNBBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>542</positionNumber>
+    <fen>qnrbbnkr/pppppppp/8/8/8/8/PPPPPPPP/QNRBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>543</positionNumber>
+    <fen>qnrbbknr/pppppppp/8/8/8/8/PPPPPPPP/QNRBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>544</positionNumber>
+    <fen>qnrbbkrn/pppppppp/8/8/8/8/PPPPPPPP/QNRBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>545</positionNumber>
+    <fen>qrnbbnkr/pppppppp/8/8/8/8/PPPPPPPP/QRNBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>546</positionNumber>
+    <fen>qrnbbknr/pppppppp/8/8/8/8/PPPPPPPP/QRNBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>547</positionNumber>
+    <fen>qrnbbkrn/pppppppp/8/8/8/8/PPPPPPPP/QRNBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>548</positionNumber>
+    <fen>qrkbbnnr/pppppppp/8/8/8/8/PPPPPPPP/QRKBBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>549</positionNumber>
+    <fen>qrkbbnrn/pppppppp/8/8/8/8/PPPPPPPP/QRKBBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>550</positionNumber>
+    <fen>qrkbbrnn/pppppppp/8/8/8/8/PPPPPPPP/QRKBBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>551</positionNumber>
+    <fen>nqnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/NQNBBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>552</positionNumber>
+    <fen>nqrbbnkr/pppppppp/8/8/8/8/PPPPPPPP/NQRBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>553</positionNumber>
+    <fen>nqrbbknr/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>554</positionNumber>
+    <fen>nqrbbkrn/pppppppp/8/8/8/8/PPPPPPPP/NQRBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>555</positionNumber>
+    <fen>rqnbbnkr/pppppppp/8/8/8/8/PPPPPPPP/RQNBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>556</positionNumber>
+    <fen>rqnbbknr/pppppppp/8/8/8/8/PPPPPPPP/RQNBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>557</positionNumber>
+    <fen>rqnbbkrn/pppppppp/8/8/8/8/PPPPPPPP/RQNBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>558</positionNumber>
+    <fen>rqkbbnnr/pppppppp/8/8/8/8/PPPPPPPP/RQKBBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>559</positionNumber>
+    <fen>rqkbbnrn/pppppppp/8/8/8/8/PPPPPPPP/RQKBBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>560</positionNumber>
+    <fen>rqkbbrnn/pppppppp/8/8/8/8/PPPPPPPP/RQKBBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>561</positionNumber>
+    <fen>nnqbbrkr/pppppppp/8/8/8/8/PPPPPPPP/NNQBBRKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>562</positionNumber>
+    <fen>nrqbbnkr/pppppppp/8/8/8/8/PPPPPPPP/NRQBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>563</positionNumber>
+    <fen>nrqbbknr/pppppppp/8/8/8/8/PPPPPPPP/NRQBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>564</positionNumber>
+    <fen>nrqbbkrn/pppppppp/8/8/8/8/PPPPPPPP/NRQBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>565</positionNumber>
+    <fen>rnqbbnkr/pppppppp/8/8/8/8/PPPPPPPP/RNQBBNKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>566</positionNumber>
+    <fen>rnqbbknr/pppppppp/8/8/8/8/PPPPPPPP/RNQBBKNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>567</positionNumber>
+    <fen>rnqbbkrn/pppppppp/8/8/8/8/PPPPPPPP/RNQBBKRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>568</positionNumber>
+    <fen>rkqbbnnr/pppppppp/8/8/8/8/PPPPPPPP/RKQBBNNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>569</positionNumber>
+    <fen>rkqbbnrn/pppppppp/8/8/8/8/PPPPPPPP/RKQBBNRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>570</positionNumber>
+    <fen>rkqbbrnn/pppppppp/8/8/8/8/PPPPPPPP/RKQBBRNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>571</positionNumber>
+    <fen>nnrbbqkr/pppppppp/8/8/8/8/PPPPPPPP/NNRBBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>572</positionNumber>
+    <fen>nrnbbqkr/pppppppp/8/8/8/8/PPPPPPPP/NRNBBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>573</positionNumber>
+    <fen>nrkbbqnr/pppppppp/8/8/8/8/PPPPPPPP/NRKBBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>574</positionNumber>
+    <fen>nrkbbqrn/pppppppp/8/8/8/8/PPPPPPPP/NRKBBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>575</positionNumber>
+    <fen>rnnbbqkr/pppppppp/8/8/8/8/PPPPPPPP/RNNBBQKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>576</positionNumber>
+    <fen>rnkbbqnr/pppppppp/8/8/8/8/PPPPPPPP/RNKBBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>577</positionNumber>
+    <fen>rnkbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RNKBBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>578</positionNumber>
+    <fen>rknbbqnr/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>579</positionNumber>
+    <fen>rknbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>580</positionNumber>
+    <fen>rkrbbqnn/pppppppp/8/8/8/8/PPPPPPPP/RKRBBQNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>581</positionNumber>
+    <fen>nnrbbkqr/pppppppp/8/8/8/8/PPPPPPPP/NNRBBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>582</positionNumber>
+    <fen>nrnbbkqr/pppppppp/8/8/8/8/PPPPPPPP/NRNBBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>583</positionNumber>
+    <fen>nrkbbnqr/pppppppp/8/8/8/8/PPPPPPPP/NRKBBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>584</positionNumber>
+    <fen>nrkbbrqn/pppppppp/8/8/8/8/PPPPPPPP/NRKBBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>585</positionNumber>
+    <fen>rnnbbkqr/pppppppp/8/8/8/8/PPPPPPPP/RNNBBKQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>586</positionNumber>
+    <fen>rnkbbnqr/pppppppp/8/8/8/8/PPPPPPPP/RNKBBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>587</positionNumber>
+    <fen>rnkbbrqn/pppppppp/8/8/8/8/PPPPPPPP/RNKBBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>588</positionNumber>
+    <fen>rknbbnqr/pppppppp/8/8/8/8/PPPPPPPP/RKNBBNQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>589</positionNumber>
+    <fen>rknbbrqn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBRQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>590</positionNumber>
+    <fen>rkrbbnqn/pppppppp/8/8/8/8/PPPPPPPP/RKRBBNQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>591</positionNumber>
+    <fen>nnrbbkrq/pppppppp/8/8/8/8/PPPPPPPP/NNRBBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>592</positionNumber>
+    <fen>nrnbbkrq/pppppppp/8/8/8/8/PPPPPPPP/NRNBBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>593</positionNumber>
+    <fen>nrkbbnrq/pppppppp/8/8/8/8/PPPPPPPP/NRKBBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>594</positionNumber>
+    <fen>nrkbbrnq/pppppppp/8/8/8/8/PPPPPPPP/NRKBBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>595</positionNumber>
+    <fen>rnnbbkrq/pppppppp/8/8/8/8/PPPPPPPP/RNNBBKRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>596</positionNumber>
+    <fen>rnkbbnrq/pppppppp/8/8/8/8/PPPPPPPP/RNKBBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>597</positionNumber>
+    <fen>rnkbbrnq/pppppppp/8/8/8/8/PPPPPPPP/RNKBBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>598</positionNumber>
+    <fen>rknbbnrq/pppppppp/8/8/8/8/PPPPPPPP/RKNBBNRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>599</positionNumber>
+    <fen>rknbbrnq/pppppppp/8/8/8/8/PPPPPPPP/RKNBBRNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>600</positionNumber>
+    <fen>rkrbbnnq/pppppppp/8/8/8/8/PPPPPPPP/RKRBBNNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>601</positionNumber>
+    <fen>qnnrbbkr/pppppppp/8/8/8/8/PPPPPPPP/QNNRBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>602</positionNumber>
+    <fen>qnrnbbkr/pppppppp/8/8/8/8/PPPPPPPP/QNRNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>603</positionNumber>
+    <fen>qnrkbbnr/pppppppp/8/8/8/8/PPPPPPPP/QNRKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>604</positionNumber>
+    <fen>qnrkbbrn/pppppppp/8/8/8/8/PPPPPPPP/QNRKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>605</positionNumber>
+    <fen>qrnnbbkr/pppppppp/8/8/8/8/PPPPPPPP/QRNNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>606</positionNumber>
+    <fen>qrnkbbnr/pppppppp/8/8/8/8/PPPPPPPP/QRNKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>607</positionNumber>
+    <fen>qrnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/QRNKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>608</positionNumber>
+    <fen>qrknbbnr/pppppppp/8/8/8/8/PPPPPPPP/QRKNBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>609</positionNumber>
+    <fen>qrknbbrn/pppppppp/8/8/8/8/PPPPPPPP/QRKNBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>610</positionNumber>
+    <fen>qrkrbbnn/pppppppp/8/8/8/8/PPPPPPPP/QRKRBBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>611</positionNumber>
+    <fen>nqnrbbkr/pppppppp/8/8/8/8/PPPPPPPP/NQNRBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>612</positionNumber>
+    <fen>nqrnbbkr/pppppppp/8/8/8/8/PPPPPPPP/NQRNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>613</positionNumber>
+    <fen>nqrkbbnr/pppppppp/8/8/8/8/PPPPPPPP/NQRKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>614</positionNumber>
+    <fen>nqrkbbrn/pppppppp/8/8/8/8/PPPPPPPP/NQRKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>615</positionNumber>
+    <fen>rqnnbbkr/pppppppp/8/8/8/8/PPPPPPPP/RQNNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>616</positionNumber>
+    <fen>rqnkbbnr/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>617</positionNumber>
+    <fen>rqnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>618</positionNumber>
+    <fen>rqknbbnr/pppppppp/8/8/8/8/PPPPPPPP/RQKNBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>619</positionNumber>
+    <fen>rqknbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQKNBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>620</positionNumber>
+    <fen>rqkrbbnn/pppppppp/8/8/8/8/PPPPPPPP/RQKRBBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>621</positionNumber>
+    <fen>nnqrbbkr/pppppppp/8/8/8/8/PPPPPPPP/NNQRBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>622</positionNumber>
+    <fen>nrqnbbkr/pppppppp/8/8/8/8/PPPPPPPP/NRQNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>623</positionNumber>
+    <fen>nrqkbbnr/pppppppp/8/8/8/8/PPPPPPPP/NRQKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>624</positionNumber>
+    <fen>nrqkbbrn/pppppppp/8/8/8/8/PPPPPPPP/NRQKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>625</positionNumber>
+    <fen>rnqnbbkr/pppppppp/8/8/8/8/PPPPPPPP/RNQNBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>626</positionNumber>
+    <fen>rnqkbbnr/pppppppp/8/8/8/8/PPPPPPPP/RNQKBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>627</positionNumber>
+    <fen>rnqkbbrn/pppppppp/8/8/8/8/PPPPPPPP/RNQKBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>628</positionNumber>
+    <fen>rkqnbbnr/pppppppp/8/8/8/8/PPPPPPPP/RKQNBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>629</positionNumber>
+    <fen>rkqnbbrn/pppppppp/8/8/8/8/PPPPPPPP/RKQNBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>630</positionNumber>
+    <fen>rkqrbbnn/pppppppp/8/8/8/8/PPPPPPPP/RKQRBBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>631</positionNumber>
+    <fen>nnrqbbkr/pppppppp/8/8/8/8/PPPPPPPP/NNRQBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>632</positionNumber>
+    <fen>nrnqbbkr/pppppppp/8/8/8/8/PPPPPPPP/NRNQBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>633</positionNumber>
+    <fen>nrkqbbnr/pppppppp/8/8/8/8/PPPPPPPP/NRKQBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>634</positionNumber>
+    <fen>nrkqbbrn/pppppppp/8/8/8/8/PPPPPPPP/NRKQBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>635</positionNumber>
+    <fen>rnnqbbkr/pppppppp/8/8/8/8/PPPPPPPP/RNNQBBKR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>636</positionNumber>
+    <fen>rnkqbbnr/pppppppp/8/8/8/8/PPPPPPPP/RNKQBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>637</positionNumber>
+    <fen>rnkqbbrn/pppppppp/8/8/8/8/PPPPPPPP/RNKQBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>638</positionNumber>
+    <fen>rknqbbnr/pppppppp/8/8/8/8/PPPPPPPP/RKNQBBNR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>639</positionNumber>
+    <fen>rknqbbrn/pppppppp/8/8/8/8/PPPPPPPP/RKNQBBRN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>640</positionNumber>
+    <fen>rkrqbbnn/pppppppp/8/8/8/8/PPPPPPPP/RKRQBBNN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>641</positionNumber>
+    <fen>nnrkbbqr/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>642</positionNumber>
+    <fen>nrnkbbqr/pppppppp/8/8/8/8/PPPPPPPP/NRNKBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>643</positionNumber>
+    <fen>nrknbbqr/pppppppp/8/8/8/8/PPPPPPPP/NRKNBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>644</positionNumber>
+    <fen>nrkrbbqn/pppppppp/8/8/8/8/PPPPPPPP/NRKRBBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>645</positionNumber>
+    <fen>rnnkbbqr/pppppppp/8/8/8/8/PPPPPPPP/RNNKBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>646</positionNumber>
+    <fen>rnknbbqr/pppppppp/8/8/8/8/PPPPPPPP/RNKNBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>647</positionNumber>
+    <fen>rnkrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RNKRBBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>648</positionNumber>
+    <fen>rknnbbqr/pppppppp/8/8/8/8/PPPPPPPP/RKNNBBQR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>649</positionNumber>
+    <fen>rknrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RKNRBBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>650</positionNumber>
+    <fen>rkrnbbqn/pppppppp/8/8/8/8/PPPPPPPP/RKRNBBQN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>651</positionNumber>
+    <fen>nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>652</positionNumber>
+    <fen>nrnkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NRNKBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>653</positionNumber>
+    <fen>nrknbbrq/pppppppp/8/8/8/8/PPPPPPPP/NRKNBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>654</positionNumber>
+    <fen>nrkrbbnq/pppppppp/8/8/8/8/PPPPPPPP/NRKRBBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>655</positionNumber>
+    <fen>rnnkbbrq/pppppppp/8/8/8/8/PPPPPPPP/RNNKBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>656</positionNumber>
+    <fen>rnknbbrq/pppppppp/8/8/8/8/PPPPPPPP/RNKNBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>657</positionNumber>
+    <fen>rnkrbbnq/pppppppp/8/8/8/8/PPPPPPPP/RNKRBBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>658</positionNumber>
+    <fen>rknnbbrq/pppppppp/8/8/8/8/PPPPPPPP/RKNNBBRQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>659</positionNumber>
+    <fen>rknrbbnq/pppppppp/8/8/8/8/PPPPPPPP/RKNRBBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>660</positionNumber>
+    <fen>rkrnbbnq/pppppppp/8/8/8/8/PPPPPPPP/RKRNBBNQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>661</positionNumber>
+    <fen>qnnrbkrb/pppppppp/8/8/8/8/PPPPPPPP/QNNRBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>662</positionNumber>
+    <fen>qnrnbkrb/pppppppp/8/8/8/8/PPPPPPPP/QNRNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>663</positionNumber>
+    <fen>qnrkbnrb/pppppppp/8/8/8/8/PPPPPPPP/QNRKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>664</positionNumber>
+    <fen>qnrkbrnb/pppppppp/8/8/8/8/PPPPPPPP/QNRKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>665</positionNumber>
+    <fen>qrnnbkrb/pppppppp/8/8/8/8/PPPPPPPP/QRNNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>666</positionNumber>
+    <fen>qrnkbnrb/pppppppp/8/8/8/8/PPPPPPPP/QRNKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>667</positionNumber>
+    <fen>qrnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/QRNKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>668</positionNumber>
+    <fen>qrknbnrb/pppppppp/8/8/8/8/PPPPPPPP/QRKNBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>669</positionNumber>
+    <fen>qrknbrnb/pppppppp/8/8/8/8/PPPPPPPP/QRKNBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>670</positionNumber>
+    <fen>qrkrbnnb/pppppppp/8/8/8/8/PPPPPPPP/QRKRBNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>671</positionNumber>
+    <fen>nqnrbkrb/pppppppp/8/8/8/8/PPPPPPPP/NQNRBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>672</positionNumber>
+    <fen>nqrnbkrb/pppppppp/8/8/8/8/PPPPPPPP/NQRNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>673</positionNumber>
+    <fen>nqrkbnrb/pppppppp/8/8/8/8/PPPPPPPP/NQRKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>674</positionNumber>
+    <fen>nqrkbrnb/pppppppp/8/8/8/8/PPPPPPPP/NQRKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>675</positionNumber>
+    <fen>rqnnbkrb/pppppppp/8/8/8/8/PPPPPPPP/RQNNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>676</positionNumber>
+    <fen>rqnkbnrb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>677</positionNumber>
+    <fen>rqnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>678</positionNumber>
+    <fen>rqknbnrb/pppppppp/8/8/8/8/PPPPPPPP/RQKNBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>679</positionNumber>
+    <fen>rqknbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQKNBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>680</positionNumber>
+    <fen>rqkrbnnb/pppppppp/8/8/8/8/PPPPPPPP/RQKRBNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>681</positionNumber>
+    <fen>nnqrbkrb/pppppppp/8/8/8/8/PPPPPPPP/NNQRBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>682</positionNumber>
+    <fen>nrqnbkrb/pppppppp/8/8/8/8/PPPPPPPP/NRQNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>683</positionNumber>
+    <fen>nrqkbnrb/pppppppp/8/8/8/8/PPPPPPPP/NRQKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>684</positionNumber>
+    <fen>nrqkbrnb/pppppppp/8/8/8/8/PPPPPPPP/NRQKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>685</positionNumber>
+    <fen>rnqnbkrb/pppppppp/8/8/8/8/PPPPPPPP/RNQNBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>686</positionNumber>
+    <fen>rnqkbnrb/pppppppp/8/8/8/8/PPPPPPPP/RNQKBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>687</positionNumber>
+    <fen>rnqkbrnb/pppppppp/8/8/8/8/PPPPPPPP/RNQKBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>688</positionNumber>
+    <fen>rkqnbnrb/pppppppp/8/8/8/8/PPPPPPPP/RKQNBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>689</positionNumber>
+    <fen>rkqnbrnb/pppppppp/8/8/8/8/PPPPPPPP/RKQNBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>690</positionNumber>
+    <fen>rkqrbnnb/pppppppp/8/8/8/8/PPPPPPPP/RKQRBNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>691</positionNumber>
+    <fen>nnrqbkrb/pppppppp/8/8/8/8/PPPPPPPP/NNRQBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>692</positionNumber>
+    <fen>nrnqbkrb/pppppppp/8/8/8/8/PPPPPPPP/NRNQBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>693</positionNumber>
+    <fen>nrkqbnrb/pppppppp/8/8/8/8/PPPPPPPP/NRKQBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>694</positionNumber>
+    <fen>nrkqbrnb/pppppppp/8/8/8/8/PPPPPPPP/NRKQBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>695</positionNumber>
+    <fen>rnnqbkrb/pppppppp/8/8/8/8/PPPPPPPP/RNNQBKRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>696</positionNumber>
+    <fen>rnkqbnrb/pppppppp/8/8/8/8/PPPPPPPP/RNKQBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>697</positionNumber>
+    <fen>rnkqbrnb/pppppppp/8/8/8/8/PPPPPPPP/RNKQBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>698</positionNumber>
+    <fen>rknqbnrb/pppppppp/8/8/8/8/PPPPPPPP/RKNQBNRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>699</positionNumber>
+    <fen>rknqbrnb/pppppppp/8/8/8/8/PPPPPPPP/RKNQBRNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>700</positionNumber>
+    <fen>rkrqbnnb/pppppppp/8/8/8/8/PPPPPPPP/RKRQBNNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>701</positionNumber>
+    <fen>nnrkbqrb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>702</positionNumber>
+    <fen>nrnkbqrb/pppppppp/8/8/8/8/PPPPPPPP/NRNKBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>703</positionNumber>
+    <fen>nrknbqrb/pppppppp/8/8/8/8/PPPPPPPP/NRKNBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>704</positionNumber>
+    <fen>nrkrbqnb/pppppppp/8/8/8/8/PPPPPPPP/NRKRBQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>705</positionNumber>
+    <fen>rnnkbqrb/pppppppp/8/8/8/8/PPPPPPPP/RNNKBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>706</positionNumber>
+    <fen>rnknbqrb/pppppppp/8/8/8/8/PPPPPPPP/RNKNBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>707</positionNumber>
+    <fen>rnkrbqnb/pppppppp/8/8/8/8/PPPPPPPP/RNKRBQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>708</positionNumber>
+    <fen>rknnbqrb/pppppppp/8/8/8/8/PPPPPPPP/RKNNBQRB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>709</positionNumber>
+    <fen>rknrbqnb/pppppppp/8/8/8/8/PPPPPPPP/RKNRBQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>710</positionNumber>
+    <fen>rkrnbqnb/pppppppp/8/8/8/8/PPPPPPPP/RKRNBQNB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>711</positionNumber>
+    <fen>nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>712</positionNumber>
+    <fen>nrnkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NRNKBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>713</positionNumber>
+    <fen>nrknbrqb/pppppppp/8/8/8/8/PPPPPPPP/NRKNBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>714</positionNumber>
+    <fen>nrkrbnqb/pppppppp/8/8/8/8/PPPPPPPP/NRKRBNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>715</positionNumber>
+    <fen>rnnkbrqb/pppppppp/8/8/8/8/PPPPPPPP/RNNKBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>716</positionNumber>
+    <fen>rnknbrqb/pppppppp/8/8/8/8/PPPPPPPP/RNKNBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>717</positionNumber>
+    <fen>rnkrbnqb/pppppppp/8/8/8/8/PPPPPPPP/RNKRBNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>718</positionNumber>
+    <fen>rknnbrqb/pppppppp/8/8/8/8/PPPPPPPP/RKNNBRQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>719</positionNumber>
+    <fen>rknrbnqb/pppppppp/8/8/8/8/PPPPPPPP/RKNRBNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>720</positionNumber>
+    <fen>rkrnbnqb/pppppppp/8/8/8/8/PPPPPPPP/RKRNBNQB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>721</positionNumber>
+    <fen>qbnnrkbr/pppppppp/8/8/8/8/PPPPPPPP/QBNNRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>722</positionNumber>
+    <fen>qbnrnkbr/pppppppp/8/8/8/8/PPPPPPPP/QBNRNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>723</positionNumber>
+    <fen>qbnrknbr/pppppppp/8/8/8/8/PPPPPPPP/QBNRKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>724</positionNumber>
+    <fen>qbnrkrbn/pppppppp/8/8/8/8/PPPPPPPP/QBNRKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>725</positionNumber>
+    <fen>qbrnnkbr/pppppppp/8/8/8/8/PPPPPPPP/QBRNNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>726</positionNumber>
+    <fen>qbrnknbr/pppppppp/8/8/8/8/PPPPPPPP/QBRNKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>727</positionNumber>
+    <fen>qbrnkrbn/pppppppp/8/8/8/8/PPPPPPPP/QBRNKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>728</positionNumber>
+    <fen>qbrknnbr/pppppppp/8/8/8/8/PPPPPPPP/QBRKNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>729</positionNumber>
+    <fen>qbrknrbn/pppppppp/8/8/8/8/PPPPPPPP/QBRKNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>730</positionNumber>
+    <fen>qbrkrnbn/pppppppp/8/8/8/8/PPPPPPPP/QBRKRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>731</positionNumber>
+    <fen>nbqnrkbr/pppppppp/8/8/8/8/PPPPPPPP/NBQNRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>732</positionNumber>
+    <fen>nbqrnkbr/pppppppp/8/8/8/8/PPPPPPPP/NBQRNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>733</positionNumber>
+    <fen>nbqrknbr/pppppppp/8/8/8/8/PPPPPPPP/NBQRKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>734</positionNumber>
+    <fen>nbqrkrbn/pppppppp/8/8/8/8/PPPPPPPP/NBQRKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>735</positionNumber>
+    <fen>rbqnnkbr/pppppppp/8/8/8/8/PPPPPPPP/RBQNNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>736</positionNumber>
+    <fen>rbqnknbr/pppppppp/8/8/8/8/PPPPPPPP/RBQNKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>737</positionNumber>
+    <fen>rbqnkrbn/pppppppp/8/8/8/8/PPPPPPPP/RBQNKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>738</positionNumber>
+    <fen>rbqknnbr/pppppppp/8/8/8/8/PPPPPPPP/RBQKNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>739</positionNumber>
+    <fen>rbqknrbn/pppppppp/8/8/8/8/PPPPPPPP/RBQKNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>740</positionNumber>
+    <fen>rbqkrnbn/pppppppp/8/8/8/8/PPPPPPPP/RBQKRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>741</positionNumber>
+    <fen>nbnqrkbr/pppppppp/8/8/8/8/PPPPPPPP/NBNQRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>742</positionNumber>
+    <fen>nbrqnkbr/pppppppp/8/8/8/8/PPPPPPPP/NBRQNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>743</positionNumber>
+    <fen>nbrqknbr/pppppppp/8/8/8/8/PPPPPPPP/NBRQKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>744</positionNumber>
+    <fen>nbrqkrbn/pppppppp/8/8/8/8/PPPPPPPP/NBRQKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>745</positionNumber>
+    <fen>rbnqnkbr/pppppppp/8/8/8/8/PPPPPPPP/RBNQNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>746</positionNumber>
+    <fen>rbnqknbr/pppppppp/8/8/8/8/PPPPPPPP/RBNQKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>747</positionNumber>
+    <fen>rbnqkrbn/pppppppp/8/8/8/8/PPPPPPPP/RBNQKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>748</positionNumber>
+    <fen>rbkqnnbr/pppppppp/8/8/8/8/PPPPPPPP/RBKQNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>749</positionNumber>
+    <fen>rbkqnrbn/pppppppp/8/8/8/8/PPPPPPPP/RBKQNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>750</positionNumber>
+    <fen>rbkqrnbn/pppppppp/8/8/8/8/PPPPPPPP/RBKQRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>751</positionNumber>
+    <fen>nbnrqkbr/pppppppp/8/8/8/8/PPPPPPPP/NBNRQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>752</positionNumber>
+    <fen>nbrnqkbr/pppppppp/8/8/8/8/PPPPPPPP/NBRNQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>753</positionNumber>
+    <fen>nbrkqnbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>754</positionNumber>
+    <fen>nbrkqrbn/pppppppp/8/8/8/8/PPPPPPPP/NBRKQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>755</positionNumber>
+    <fen>rbnnqkbr/pppppppp/8/8/8/8/PPPPPPPP/RBNNQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>756</positionNumber>
+    <fen>rbnkqnbr/pppppppp/8/8/8/8/PPPPPPPP/RBNKQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>757</positionNumber>
+    <fen>rbnkqrbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>758</positionNumber>
+    <fen>rbknqnbr/pppppppp/8/8/8/8/PPPPPPPP/RBKNQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>759</positionNumber>
+    <fen>rbknqrbn/pppppppp/8/8/8/8/PPPPPPPP/RBKNQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>760</positionNumber>
+    <fen>rbkrqnbn/pppppppp/8/8/8/8/PPPPPPPP/RBKRQNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>761</positionNumber>
+    <fen>nbnrkqbr/pppppppp/8/8/8/8/PPPPPPPP/NBNRKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>762</positionNumber>
+    <fen>nbrnkqbr/pppppppp/8/8/8/8/PPPPPPPP/NBRNKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>763</positionNumber>
+    <fen>nbrknqbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>764</positionNumber>
+    <fen>nbrkrqbn/pppppppp/8/8/8/8/PPPPPPPP/NBRKRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>765</positionNumber>
+    <fen>rbnnkqbr/pppppppp/8/8/8/8/PPPPPPPP/RBNNKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>766</positionNumber>
+    <fen>rbnknqbr/pppppppp/8/8/8/8/PPPPPPPP/RBNKNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>767</positionNumber>
+    <fen>rbnkrqbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>768</positionNumber>
+    <fen>rbknnqbr/pppppppp/8/8/8/8/PPPPPPPP/RBKNNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>769</positionNumber>
+    <fen>rbknrqbn/pppppppp/8/8/8/8/PPPPPPPP/RBKNRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>770</positionNumber>
+    <fen>rbkrnqbn/pppppppp/8/8/8/8/PPPPPPPP/RBKRNQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>771</positionNumber>
+    <fen>nbnrkrbq/pppppppp/8/8/8/8/PPPPPPPP/NBNRKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>772</positionNumber>
+    <fen>nbrnkrbq/pppppppp/8/8/8/8/PPPPPPPP/NBRNKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>773</positionNumber>
+    <fen>nbrknrbq/pppppppp/8/8/8/8/PPPPPPPP/NBRKNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>774</positionNumber>
+    <fen>nbrkrnbq/pppppppp/8/8/8/8/PPPPPPPP/NBRKRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>775</positionNumber>
+    <fen>rbnnkrbq/pppppppp/8/8/8/8/PPPPPPPP/RBNNKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>776</positionNumber>
+    <fen>rbnknrbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>777</positionNumber>
+    <fen>rbnkrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>778</positionNumber>
+    <fen>rbknnrbq/pppppppp/8/8/8/8/PPPPPPPP/RBKNNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>779</positionNumber>
+    <fen>rbknrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBKNRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>780</positionNumber>
+    <fen>rbkrnnbq/pppppppp/8/8/8/8/PPPPPPPP/RBKRNNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>781</positionNumber>
+    <fen>qnnbrkbr/pppppppp/8/8/8/8/PPPPPPPP/QNNBRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>782</positionNumber>
+    <fen>qnrbnkbr/pppppppp/8/8/8/8/PPPPPPPP/QNRBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>783</positionNumber>
+    <fen>qnrbknbr/pppppppp/8/8/8/8/PPPPPPPP/QNRBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>784</positionNumber>
+    <fen>qnrbkrbn/pppppppp/8/8/8/8/PPPPPPPP/QNRBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>785</positionNumber>
+    <fen>qrnbnkbr/pppppppp/8/8/8/8/PPPPPPPP/QRNBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>786</positionNumber>
+    <fen>qrnbknbr/pppppppp/8/8/8/8/PPPPPPPP/QRNBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>787</positionNumber>
+    <fen>qrnbkrbn/pppppppp/8/8/8/8/PPPPPPPP/QRNBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>788</positionNumber>
+    <fen>qrkbnnbr/pppppppp/8/8/8/8/PPPPPPPP/QRKBNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>789</positionNumber>
+    <fen>qrkbnrbn/pppppppp/8/8/8/8/PPPPPPPP/QRKBNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>790</positionNumber>
+    <fen>qrkbrnbn/pppppppp/8/8/8/8/PPPPPPPP/QRKBRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>791</positionNumber>
+    <fen>nqnbrkbr/pppppppp/8/8/8/8/PPPPPPPP/NQNBRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>792</positionNumber>
+    <fen>nqrbnkbr/pppppppp/8/8/8/8/PPPPPPPP/NQRBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>793</positionNumber>
+    <fen>nqrbknbr/pppppppp/8/8/8/8/PPPPPPPP/NQRBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>794</positionNumber>
+    <fen>nqrbkrbn/pppppppp/8/8/8/8/PPPPPPPP/NQRBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>795</positionNumber>
+    <fen>rqnbnkbr/pppppppp/8/8/8/8/PPPPPPPP/RQNBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>796</positionNumber>
+    <fen>rqnbknbr/pppppppp/8/8/8/8/PPPPPPPP/RQNBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>797</positionNumber>
+    <fen>rqnbkrbn/pppppppp/8/8/8/8/PPPPPPPP/RQNBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>798</positionNumber>
+    <fen>rqkbnnbr/pppppppp/8/8/8/8/PPPPPPPP/RQKBNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>799</positionNumber>
+    <fen>rqkbnrbn/pppppppp/8/8/8/8/PPPPPPPP/RQKBNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>800</positionNumber>
+    <fen>rqkbrnbn/pppppppp/8/8/8/8/PPPPPPPP/RQKBRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>801</positionNumber>
+    <fen>nnqbrkbr/pppppppp/8/8/8/8/PPPPPPPP/NNQBRKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>802</positionNumber>
+    <fen>nrqbnkbr/pppppppp/8/8/8/8/PPPPPPPP/NRQBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>803</positionNumber>
+    <fen>nrqbknbr/pppppppp/8/8/8/8/PPPPPPPP/NRQBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>804</positionNumber>
+    <fen>nrqbkrbn/pppppppp/8/8/8/8/PPPPPPPP/NRQBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>805</positionNumber>
+    <fen>rnqbnkbr/pppppppp/8/8/8/8/PPPPPPPP/RNQBNKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>806</positionNumber>
+    <fen>rnqbknbr/pppppppp/8/8/8/8/PPPPPPPP/RNQBKNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>807</positionNumber>
+    <fen>rnqbkrbn/pppppppp/8/8/8/8/PPPPPPPP/RNQBKRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>808</positionNumber>
+    <fen>rkqbnnbr/pppppppp/8/8/8/8/PPPPPPPP/RKQBNNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>809</positionNumber>
+    <fen>rkqbnrbn/pppppppp/8/8/8/8/PPPPPPPP/RKQBNRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>810</positionNumber>
+    <fen>rkqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/RKQBRNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>811</positionNumber>
+    <fen>nnrbqkbr/pppppppp/8/8/8/8/PPPPPPPP/NNRBQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>812</positionNumber>
+    <fen>nrnbqkbr/pppppppp/8/8/8/8/PPPPPPPP/NRNBQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>813</positionNumber>
+    <fen>nrkbqnbr/pppppppp/8/8/8/8/PPPPPPPP/NRKBQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>814</positionNumber>
+    <fen>nrkbqrbn/pppppppp/8/8/8/8/PPPPPPPP/NRKBQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>815</positionNumber>
+    <fen>rnnbqkbr/pppppppp/8/8/8/8/PPPPPPPP/RNNBQKBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>816</positionNumber>
+    <fen>rnkbqnbr/pppppppp/8/8/8/8/PPPPPPPP/RNKBQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>817</positionNumber>
+    <fen>rnkbqrbn/pppppppp/8/8/8/8/PPPPPPPP/RNKBQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>818</positionNumber>
+    <fen>rknbqnbr/pppppppp/8/8/8/8/PPPPPPPP/RKNBQNBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>819</positionNumber>
+    <fen>rknbqrbn/pppppppp/8/8/8/8/PPPPPPPP/RKNBQRBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>820</positionNumber>
+    <fen>rkrbqnbn/pppppppp/8/8/8/8/PPPPPPPP/RKRBQNBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>821</positionNumber>
+    <fen>nnrbkqbr/pppppppp/8/8/8/8/PPPPPPPP/NNRBKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>822</positionNumber>
+    <fen>nrnbkqbr/pppppppp/8/8/8/8/PPPPPPPP/NRNBKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>823</positionNumber>
+    <fen>nrkbnqbr/pppppppp/8/8/8/8/PPPPPPPP/NRKBNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>824</positionNumber>
+    <fen>nrkbrqbn/pppppppp/8/8/8/8/PPPPPPPP/NRKBRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>825</positionNumber>
+    <fen>rnnbkqbr/pppppppp/8/8/8/8/PPPPPPPP/RNNBKQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>826</positionNumber>
+    <fen>rnkbnqbr/pppppppp/8/8/8/8/PPPPPPPP/RNKBNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>827</positionNumber>
+    <fen>rnkbrqbn/pppppppp/8/8/8/8/PPPPPPPP/RNKBRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>828</positionNumber>
+    <fen>rknbnqbr/pppppppp/8/8/8/8/PPPPPPPP/RKNBNQBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>829</positionNumber>
+    <fen>rknbrqbn/pppppppp/8/8/8/8/PPPPPPPP/RKNBRQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>830</positionNumber>
+    <fen>rkrbnqbn/pppppppp/8/8/8/8/PPPPPPPP/RKRBNQBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>831</positionNumber>
+    <fen>nnrbkrbq/pppppppp/8/8/8/8/PPPPPPPP/NNRBKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>832</positionNumber>
+    <fen>nrnbkrbq/pppppppp/8/8/8/8/PPPPPPPP/NRNBKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>833</positionNumber>
+    <fen>nrkbnrbq/pppppppp/8/8/8/8/PPPPPPPP/NRKBNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>834</positionNumber>
+    <fen>nrkbrnbq/pppppppp/8/8/8/8/PPPPPPPP/NRKBRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>835</positionNumber>
+    <fen>rnnbkrbq/pppppppp/8/8/8/8/PPPPPPPP/RNNBKRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>836</positionNumber>
+    <fen>rnkbnrbq/pppppppp/8/8/8/8/PPPPPPPP/RNKBNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>837</positionNumber>
+    <fen>rnkbrnbq/pppppppp/8/8/8/8/PPPPPPPP/RNKBRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>838</positionNumber>
+    <fen>rknbnrbq/pppppppp/8/8/8/8/PPPPPPPP/RKNBNRBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>839</positionNumber>
+    <fen>rknbrnbq/pppppppp/8/8/8/8/PPPPPPPP/RKNBRNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>840</positionNumber>
+    <fen>rkrbnnbq/pppppppp/8/8/8/8/PPPPPPPP/RKRBNNBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>841</positionNumber>
+    <fen>qnnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNNRKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>842</positionNumber>
+    <fen>qnrnkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNRNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>843</positionNumber>
+    <fen>qnrknbbr/pppppppp/8/8/8/8/PPPPPPPP/QNRKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>844</positionNumber>
+    <fen>qnrkrbbn/pppppppp/8/8/8/8/PPPPPPPP/QNRKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>845</positionNumber>
+    <fen>qrnnkbbr/pppppppp/8/8/8/8/PPPPPPPP/QRNNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>846</positionNumber>
+    <fen>qrnknbbr/pppppppp/8/8/8/8/PPPPPPPP/QRNKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>847</positionNumber>
+    <fen>qrnkrbbn/pppppppp/8/8/8/8/PPPPPPPP/QRNKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>848</positionNumber>
+    <fen>qrknnbbr/pppppppp/8/8/8/8/PPPPPPPP/QRKNNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>849</positionNumber>
+    <fen>qrknrbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKNRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>850</positionNumber>
+    <fen>qrkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKRNBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>851</positionNumber>
+    <fen>nqnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/NQNRKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>852</positionNumber>
+    <fen>nqrnkbbr/pppppppp/8/8/8/8/PPPPPPPP/NQRNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>853</positionNumber>
+    <fen>nqrknbbr/pppppppp/8/8/8/8/PPPPPPPP/NQRKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>854</positionNumber>
+    <fen>nqrkrbbn/pppppppp/8/8/8/8/PPPPPPPP/NQRKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>855</positionNumber>
+    <fen>rqnnkbbr/pppppppp/8/8/8/8/PPPPPPPP/RQNNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>856</positionNumber>
+    <fen>rqnknbbr/pppppppp/8/8/8/8/PPPPPPPP/RQNKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>857</positionNumber>
+    <fen>rqnkrbbn/pppppppp/8/8/8/8/PPPPPPPP/RQNKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>858</positionNumber>
+    <fen>rqknnbbr/pppppppp/8/8/8/8/PPPPPPPP/RQKNNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>859</positionNumber>
+    <fen>rqknrbbn/pppppppp/8/8/8/8/PPPPPPPP/RQKNRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>860</positionNumber>
+    <fen>rqkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/RQKRNBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>861</positionNumber>
+    <fen>nnqrkbbr/pppppppp/8/8/8/8/PPPPPPPP/NNQRKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>862</positionNumber>
+    <fen>nrqnkbbr/pppppppp/8/8/8/8/PPPPPPPP/NRQNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>863</positionNumber>
+    <fen>nrqknbbr/pppppppp/8/8/8/8/PPPPPPPP/NRQKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>864</positionNumber>
+    <fen>nrqkrbbn/pppppppp/8/8/8/8/PPPPPPPP/NRQKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>865</positionNumber>
+    <fen>rnqnkbbr/pppppppp/8/8/8/8/PPPPPPPP/RNQNKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>866</positionNumber>
+    <fen>rnqknbbr/pppppppp/8/8/8/8/PPPPPPPP/RNQKNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>867</positionNumber>
+    <fen>rnqkrbbn/pppppppp/8/8/8/8/PPPPPPPP/RNQKRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>868</positionNumber>
+    <fen>rkqnnbbr/pppppppp/8/8/8/8/PPPPPPPP/RKQNNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>869</positionNumber>
+    <fen>rkqnrbbn/pppppppp/8/8/8/8/PPPPPPPP/RKQNRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>870</positionNumber>
+    <fen>rkqrnbbn/pppppppp/8/8/8/8/PPPPPPPP/RKQRNBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>871</positionNumber>
+    <fen>nnrqkbbr/pppppppp/8/8/8/8/PPPPPPPP/NNRQKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>872</positionNumber>
+    <fen>nrnqkbbr/pppppppp/8/8/8/8/PPPPPPPP/NRNQKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>873</positionNumber>
+    <fen>nrkqnbbr/pppppppp/8/8/8/8/PPPPPPPP/NRKQNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>874</positionNumber>
+    <fen>nrkqrbbn/pppppppp/8/8/8/8/PPPPPPPP/NRKQRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>875</positionNumber>
+    <fen>rnnqkbbr/pppppppp/8/8/8/8/PPPPPPPP/RNNQKBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>876</positionNumber>
+    <fen>rnkqnbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKQNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>877</positionNumber>
+    <fen>rnkqrbbn/pppppppp/8/8/8/8/PPPPPPPP/RNKQRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>878</positionNumber>
+    <fen>rknqnbbr/pppppppp/8/8/8/8/PPPPPPPP/RKNQNBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>879</positionNumber>
+    <fen>rknqrbbn/pppppppp/8/8/8/8/PPPPPPPP/RKNQRBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>880</positionNumber>
+    <fen>rkrqnbbn/pppppppp/8/8/8/8/PPPPPPPP/RKRQNBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>881</positionNumber>
+    <fen>nnrkqbbr/pppppppp/8/8/8/8/PPPPPPPP/NNRKQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>882</positionNumber>
+    <fen>nrnkqbbr/pppppppp/8/8/8/8/PPPPPPPP/NRNKQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>883</positionNumber>
+    <fen>nrknqbbr/pppppppp/8/8/8/8/PPPPPPPP/NRKNQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>884</positionNumber>
+    <fen>nrkrqbbn/pppppppp/8/8/8/8/PPPPPPPP/NRKRQBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>885</positionNumber>
+    <fen>rnnkqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNNKQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>886</positionNumber>
+    <fen>rnknqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKNQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>887</positionNumber>
+    <fen>rnkrqbbn/pppppppp/8/8/8/8/PPPPPPPP/RNKRQBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>888</positionNumber>
+    <fen>rknnqbbr/pppppppp/8/8/8/8/PPPPPPPP/RKNNQBBR w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>889</positionNumber>
+    <fen>rknrqbbn/pppppppp/8/8/8/8/PPPPPPPP/RKNRQBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>890</positionNumber>
+    <fen>rkrnqbbn/pppppppp/8/8/8/8/PPPPPPPP/RKRNQBBN w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>891</positionNumber>
+    <fen>nnrkrbbq/pppppppp/8/8/8/8/PPPPPPPP/NNRKRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>892</positionNumber>
+    <fen>nrnkrbbq/pppppppp/8/8/8/8/PPPPPPPP/NRNKRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>893</positionNumber>
+    <fen>nrknrbbq/pppppppp/8/8/8/8/PPPPPPPP/NRKNRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>894</positionNumber>
+    <fen>nrkrnbbq/pppppppp/8/8/8/8/PPPPPPPP/NRKRNBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>895</positionNumber>
+    <fen>rnnkrbbq/pppppppp/8/8/8/8/PPPPPPPP/RNNKRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>896</positionNumber>
+    <fen>rnknrbbq/pppppppp/8/8/8/8/PPPPPPPP/RNKNRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>897</positionNumber>
+    <fen>rnkrnbbq/pppppppp/8/8/8/8/PPPPPPPP/RNKRNBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>898</positionNumber>
+    <fen>rknnrbbq/pppppppp/8/8/8/8/PPPPPPPP/RKNNRBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>899</positionNumber>
+    <fen>rknrnbbq/pppppppp/8/8/8/8/PPPPPPPP/RKNRNBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>900</positionNumber>
+    <fen>rkrnnbbq/pppppppp/8/8/8/8/PPPPPPPP/RKRNNBBQ w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>901</positionNumber>
+    <fen>qnnrkrbb/pppppppp/8/8/8/8/PPPPPPPP/QNNRKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>902</positionNumber>
+    <fen>qnrnkrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>903</positionNumber>
+    <fen>qnrknrbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>904</positionNumber>
+    <fen>qnrkrnbb/pppppppp/8/8/8/8/PPPPPPPP/QNRKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>905</positionNumber>
+    <fen>qrnnkrbb/pppppppp/8/8/8/8/PPPPPPPP/QRNNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>906</positionNumber>
+    <fen>qrnknrbb/pppppppp/8/8/8/8/PPPPPPPP/QRNKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>907</positionNumber>
+    <fen>qrnkrnbb/pppppppp/8/8/8/8/PPPPPPPP/QRNKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>908</positionNumber>
+    <fen>qrknnrbb/pppppppp/8/8/8/8/PPPPPPPP/QRKNNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>909</positionNumber>
+    <fen>qrknrnbb/pppppppp/8/8/8/8/PPPPPPPP/QRKNRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>910</positionNumber>
+    <fen>qrkrnnbb/pppppppp/8/8/8/8/PPPPPPPP/QRKRNNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>911</positionNumber>
+    <fen>nqnrkrbb/pppppppp/8/8/8/8/PPPPPPPP/NQNRKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>912</positionNumber>
+    <fen>nqrnkrbb/pppppppp/8/8/8/8/PPPPPPPP/NQRNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>913</positionNumber>
+    <fen>nqrknrbb/pppppppp/8/8/8/8/PPPPPPPP/NQRKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>914</positionNumber>
+    <fen>nqrkrnbb/pppppppp/8/8/8/8/PPPPPPPP/NQRKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>915</positionNumber>
+    <fen>rqnnkrbb/pppppppp/8/8/8/8/PPPPPPPP/RQNNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>916</positionNumber>
+    <fen>rqnknrbb/pppppppp/8/8/8/8/PPPPPPPP/RQNKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>917</positionNumber>
+    <fen>rqnkrnbb/pppppppp/8/8/8/8/PPPPPPPP/RQNKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>918</positionNumber>
+    <fen>rqknnrbb/pppppppp/8/8/8/8/PPPPPPPP/RQKNNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>919</positionNumber>
+    <fen>rqknrnbb/pppppppp/8/8/8/8/PPPPPPPP/RQKNRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>920</positionNumber>
+    <fen>rqkrnnbb/pppppppp/8/8/8/8/PPPPPPPP/RQKRNNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>921</positionNumber>
+    <fen>nnqrkrbb/pppppppp/8/8/8/8/PPPPPPPP/NNQRKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>922</positionNumber>
+    <fen>nrqnkrbb/pppppppp/8/8/8/8/PPPPPPPP/NRQNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>923</positionNumber>
+    <fen>nrqknrbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>924</positionNumber>
+    <fen>nrqkrnbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>925</positionNumber>
+    <fen>rnqnkrbb/pppppppp/8/8/8/8/PPPPPPPP/RNQNKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>926</positionNumber>
+    <fen>rnqknrbb/pppppppp/8/8/8/8/PPPPPPPP/RNQKNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>927</positionNumber>
+    <fen>rnqkrnbb/pppppppp/8/8/8/8/PPPPPPPP/RNQKRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>928</positionNumber>
+    <fen>rkqnnrbb/pppppppp/8/8/8/8/PPPPPPPP/RKQNNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>929</positionNumber>
+    <fen>rkqnrnbb/pppppppp/8/8/8/8/PPPPPPPP/RKQNRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>930</positionNumber>
+    <fen>rkqrnnbb/pppppppp/8/8/8/8/PPPPPPPP/RKQRNNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>931</positionNumber>
+    <fen>nnrqkrbb/pppppppp/8/8/8/8/PPPPPPPP/NNRQKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>932</positionNumber>
+    <fen>nrnqkrbb/pppppppp/8/8/8/8/PPPPPPPP/NRNQKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>933</positionNumber>
+    <fen>nrkqnrbb/pppppppp/8/8/8/8/PPPPPPPP/NRKQNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>934</positionNumber>
+    <fen>nrkqrnbb/pppppppp/8/8/8/8/PPPPPPPP/NRKQRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>935</positionNumber>
+    <fen>rnnqkrbb/pppppppp/8/8/8/8/PPPPPPPP/RNNQKRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>936</positionNumber>
+    <fen>rnkqnrbb/pppppppp/8/8/8/8/PPPPPPPP/RNKQNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>937</positionNumber>
+    <fen>rnkqrnbb/pppppppp/8/8/8/8/PPPPPPPP/RNKQRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>938</positionNumber>
+    <fen>rknqnrbb/pppppppp/8/8/8/8/PPPPPPPP/RKNQNRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>939</positionNumber>
+    <fen>rknqrnbb/pppppppp/8/8/8/8/PPPPPPPP/RKNQRNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>940</positionNumber>
+    <fen>rkrqnnbb/pppppppp/8/8/8/8/PPPPPPPP/RKRQNNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>941</positionNumber>
+    <fen>nnrkqrbb/pppppppp/8/8/8/8/PPPPPPPP/NNRKQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>942</positionNumber>
+    <fen>nrnkqrbb/pppppppp/8/8/8/8/PPPPPPPP/NRNKQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>943</positionNumber>
+    <fen>nrknqrbb/pppppppp/8/8/8/8/PPPPPPPP/NRKNQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>944</positionNumber>
+    <fen>nrkrqnbb/pppppppp/8/8/8/8/PPPPPPPP/NRKRQNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>945</positionNumber>
+    <fen>rnnkqrbb/pppppppp/8/8/8/8/PPPPPPPP/RNNKQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>946</positionNumber>
+    <fen>rnknqrbb/pppppppp/8/8/8/8/PPPPPPPP/RNKNQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>947</positionNumber>
+    <fen>rnkrqnbb/pppppppp/8/8/8/8/PPPPPPPP/RNKRQNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>948</positionNumber>
+    <fen>rknnqrbb/pppppppp/8/8/8/8/PPPPPPPP/RKNNQRBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>949</positionNumber>
+    <fen>rknrqnbb/pppppppp/8/8/8/8/PPPPPPPP/RKNRQNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>950</positionNumber>
+    <fen>rkrnqnbb/pppppppp/8/8/8/8/PPPPPPPP/RKRNQNBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>951</positionNumber>
+    <fen>nnrkrqbb/pppppppp/8/8/8/8/PPPPPPPP/NNRKRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>952</positionNumber>
+    <fen>nrnkrqbb/pppppppp/8/8/8/8/PPPPPPPP/NRNKRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>953</positionNumber>
+    <fen>nrknrqbb/pppppppp/8/8/8/8/PPPPPPPP/NRKNRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>954</positionNumber>
+    <fen>nrkrnqbb/pppppppp/8/8/8/8/PPPPPPPP/NRKRNQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>955</positionNumber>
+    <fen>rnnkrqbb/pppppppp/8/8/8/8/PPPPPPPP/RNNKRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>956</positionNumber>
+    <fen>rnknrqbb/pppppppp/8/8/8/8/PPPPPPPP/RNKNRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>957</positionNumber>
+    <fen>rnkrnqbb/pppppppp/8/8/8/8/PPPPPPPP/RNKRNQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>958</positionNumber>
+    <fen>rknnrqbb/pppppppp/8/8/8/8/PPPPPPPP/RKNNRQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>959</positionNumber>
+    <fen>rknrnqbb/pppppppp/8/8/8/8/PPPPPPPP/RKNRNQBB w KQkq - 0 1</fen>
+  </startingPosition>
+  <startingPosition>
+    <positionNumber>960</positionNumber>
+    <fen>rkrnnqbb/pppppppp/8/8/8/8/PPPPPPPP/RKRNNQBB w KQkq - 0 1</fen>
+  </startingPosition>
+</positions>
