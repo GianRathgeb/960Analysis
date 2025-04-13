@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 
 startingPositionsFile = ".\\startingPositions.txt"
 stockfishPath = ".\\stockfish\\stockfish-windows-x86-64-avx2.exe"
-depth = 20
+depth = 25
 showMoves = 10
 resultsToFile = True
 
@@ -41,11 +41,23 @@ print(f"{formattedStartTime} - Starting analysing {totalPositions} starting posi
 
 for index, startingPosition in enumerate(startingPositions):
     positionIndex = index + 1
-    tempTime = time.time()
-    tempDuration = time.gmtime((tempTime - startTime))
-    formattedTempTime = time.strftime("%H:%M:%S", tempDuration)
-    sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionIndex}/960")
-    sys.stdout.flush()
+
+    # update only every 10 positions
+    if positionIndex % 10 == 0:
+        # calculate the undergoing time
+        tempTime = time.time()
+        tempDuration = time.gmtime((tempTime - startTime))
+        formattedTempTime = time.strftime("%H:%M:%S", tempDuration)
+
+        # calculate est. full time
+        restPositions = totalPositions - positionIndex
+        timePerCalc = (tempTime - startTime) / positionIndex
+        estTime = time.gmtime(restPositions * timePerCalc)
+        formattedEstTime = time.strftime("%H:%M:%S", estTime)
+
+        # update progress
+        sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionIndex}/960    est. time {formattedEstTime}")
+        sys.stdout.flush()
 
     stockfish.set_fen_position(startingPosition)
     # Evaluate the position.
