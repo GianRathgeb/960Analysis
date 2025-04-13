@@ -9,6 +9,7 @@ stockfishPath = ".\\stockfish\\stockfish-windows-x86-64-avx2.exe"
 depth = 25
 showMoves = 10
 resultsToFile = True
+outputFile = f"analysis\\starting_pos_analysis_depth_{depth}.xml"
 
 results = []
 startingPositions = []
@@ -113,7 +114,6 @@ def write_results_to_xml(results, output_file):
 
 if resultsToFile:
     print("Writing results to output file")
-    output_file = f"analysis\\starting_pos_analysis_depth_{depth}.xml"
-    write_results_to_xml(results, output_file)
+    write_results_to_xml(results, outputFile)
 else:
     print(results)
