@@ -4,10 +4,10 @@ import os
 from stockfish import Stockfish
 import xml.etree.ElementTree as ET
 
-startingPositionsFile = ".\\startingPositions.xml"
+startingPositionsFile = ".\\analysis\\topPositions\\top_100_positions_depth_25.xml"
 stockfishPath = ".\\stockfish\\stockfish-windows-x86-64-avx2.exe"
-depth = 10
-showMoves = 10
+depth = 30
+showMoves = 20
 resultsToFile = True
 outputFile = f"analysis\\calcEval\\starting_pos_analysis_depth_{depth}.xml"
 
