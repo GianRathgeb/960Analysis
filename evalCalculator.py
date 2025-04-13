@@ -4,12 +4,12 @@ import os
 from stockfish import Stockfish
 import xml.etree.ElementTree as ET
 
-startingPositionsFile = ".\\startingPositions.txt"
+startingPositionsFile = ".\\startingPositions.xml"
 stockfishPath = ".\\stockfish\\stockfish-windows-x86-64-avx2.exe"
-depth = 25
+depth = 10
 showMoves = 10
 resultsToFile = True
-outputFile = f"analysis\\starting_pos_analysis_depth_{depth}.xml"
+outputFile = f"analysis\\calcEval\\starting_pos_analysis_depth_{depth}.xml"
 
 results = []
 startingPositions = []
@@ -21,9 +21,37 @@ if showMoves > depth:
 else:
     maxMoves = showMoves
 
-with open(startingPositionsFile) as file:
-    startingPositions = [line.rstrip() for line in file]
+def load_fens_from_xml(fen_xml_file):
+    """
+    Read the FEN XML file and return a list of FEN strings.
+    Expects an XML structure like:
+    
+    Returns a list of FEN strings sorted by positionNumber.
+    """
+    try:
+        tree = ET.parse(fen_xml_file)
+    except Exception as e:
+        print(f"Error parsing FEN XML file: {e}")
+        exit(0)
+    root = tree.getroot()
+    
+    fen_dict = {}
+    for sp in root.findall("startingPosition"):
+        pos_elem = sp.find("positionNumber")
+        fen_elem = sp.find("fen")
+        if pos_elem is None or fen_elem is None:
+            continue
+        try:
+            pos = int(pos_elem.text.strip())
+            fen_str = fen_elem.text.strip()
+            fen_dict[pos] = fen_str
+        except Exception:
+            continue
+    # Sorted by position number (assuming positions start at 1)
+    return fen_dict
 
+# Load starting positions from the XML file.
+startingPositions = load_fens_from_xml(startingPositionsFile)
 totalPositions = len(startingPositions)
 
 stockfish = Stockfish(
@@ -40,9 +68,7 @@ formattedStartTime = time.strftime("%H:%M:%S", time.localtime(startTime))
 print(f"{formattedStartTime} - Starting analysing {totalPositions} starting positions with a depth of {depth}")
 
 
-for index, startingPosition in enumerate(startingPositions):
-    positionIndex = index + 1
-
+for positionIndex, startingPosition in startingPositions.items():
     # update only every 10 positions
     if positionIndex % 10 == 0:
         # calculate the undergoing time
@@ -113,7 +139,7 @@ def write_results_to_xml(results, output_file):
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
 if resultsToFile:
-    print("Writing results to output file")
+    print(f"Writing results to output file {outputFile}")
     write_results_to_xml(results, outputFile)
 else:
     print(results)

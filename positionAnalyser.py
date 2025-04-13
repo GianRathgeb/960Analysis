@@ -2,10 +2,10 @@ import xml.etree.ElementTree as ET
 import os
 
 countTopPositions = 5
-calculatedDepth = 25
+calculatedDepth = 10
 xmlFile = f"analysis\\calcEval\\starting_pos_analysis_depth_{calculatedDepth}.xml"
 outputFile = f"analysis\\topPositions\\top_{countTopPositions}_positions_depth_{calculatedDepth}.txt"
-allPositionFile = ".\\startingPositions.txt"
+allPositionFile = ".\\legacy\\startingPositions.txt"
 
 print(f"Finding the top {countTopPositions} positions")
 
@@ -87,7 +87,7 @@ for pos_num, evaluation in positions:
     results.append((pos_num, evaluation, fen))
 
 # Display the top N positions.
-print(f"\n{countTopPositions} Top Positions (format: (position, evaluation, FEN)):")
+print(f"\n{countTopPositions} Top Positions with depth {calculatedDepth} (format: (position, evaluation, FEN)):")
 for r in results[:countTopPositions]:
     # Print evaluation in its raw numeric form.
     print(f"({r[0]}, {r[1]}, {r[2]})")
