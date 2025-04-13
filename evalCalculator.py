@@ -67,23 +67,23 @@ startTime = time.time()
 formattedStartTime = time.strftime("%H:%M:%S", time.localtime(startTime))
 print(f"{formattedStartTime} - Starting analysing {totalPositions} starting positions with a depth of {depth}")
 
-
+positionsDone = 0
 for positionIndex, startingPosition in startingPositions.items():
-    # update only every 10 positions
-    if positionIndex % 10 == 0:
+    # during the first run, don't show anything
+    if positionsDone != 0:
         # calculate the undergoing time
         tempTime = time.time()
         tempDuration = time.gmtime((tempTime - startTime))
         formattedTempTime = time.strftime("%H:%M:%S", tempDuration)
 
         # calculate est. full time
-        restPositions = totalPositions - positionIndex
-        timePerCalc = (tempTime - startTime) / positionIndex
+        restPositions = totalPositions - positionsDone
+        timePerCalc = (tempTime - startTime) / positionsDone
         estTime = time.gmtime(restPositions * timePerCalc)
         formattedEstTime = time.strftime("%H:%M:%S", estTime)
 
         # update progress
-        sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionIndex}/960    est. time {formattedEstTime}")
+        sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionsDone}/{totalPositions}    est. time {formattedEstTime}")
         sys.stdout.flush()
 
     stockfish.set_fen_position(startingPosition)
@@ -110,6 +110,7 @@ for positionIndex, startingPosition in startingPositions.items():
         moves = "No moves"
 
     results.append((positionIndex, finalScore, moves))
+    positionsDone += 1
 
 print()
 endTime = time.time()
