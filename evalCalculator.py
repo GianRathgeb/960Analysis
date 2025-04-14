@@ -86,31 +86,39 @@ for positionIndex, startingPosition in startingPositions.items():
         sys.stdout.write(f"\r{formattedTempTime} - Progress: {positionsDone}/{totalPositions}    est. time {formattedEstTime}")
         sys.stdout.flush()
 
-    stockfish.set_fen_position(startingPosition)
     # Evaluate the position.
     # The get_evaluation() method returns a dict like: 
     # # {"type": "cp", "value": 123} or {"type": "mate", "value": 5}
-    eval_obj = stockfish.get_evaluation() 
-
-    # Interpret the score. For example, if it's a mate score:
-    # Format the evaluation in the style of chess.com
-    if eval_obj["type"] == "mate":
-        # e.g., {"type": "mate", "value": 5} becomes "M5"
-        finalScore = f"M{eval_obj['value']}"
-    else:
-        # Convert centipawn (cp) evaluation into pawn units (divide by 100)
-        finalScore = eval_obj["value"] / 100.0
+    try:
+        stockfish.set_fen_position(startingPosition)
+        eval_obj = stockfish.get_evaluation() 
+        # Interpret the score. For example, if it's a mate score:
+        # Format the evaluation in the style of chess.com
+        if eval_obj["type"] == "mate":
+            # e.g., {"type": "mate", "value": 5} becomes "M5"
+            finalScore = f"M{eval_obj['value']}"
+        else:
+            # Convert centipawn (cp) evaluation into pawn units (divide by 100)
+            finalScore = eval_obj["value"] / 100.0
+    except Exception as e:
+        print(f"\nError in the evaluation of position {positionIndex}: {e}")
+        finalScore = None
     
-    topMoves = stockfish.get_top_moves(maxMoves)
+    try:
+        topMoves = stockfish.get_top_moves(maxMoves)
 
-    if topMoves:
-        moves = " ".join(item["Move"] for item in topMoves)
-        
-    else:
-        moves = "No moves"
+        if topMoves:
+            moves = " ".join(item["Move"] for item in topMoves)
+            
+        else:
+            moves = "No moves"
+    except Exception as e:
+        print(f"\nError retrieving top moves for position {positionIndex}: {e}")
+        topMoves = None
 
     results.append((positionIndex, finalScore, moves))
     positionsDone += 1
+
 
 print()
 endTime = time.time()
@@ -139,8 +147,14 @@ def write_results_to_xml(results, output_file):
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
-if resultsToFile:
-    print(f"Writing results to output file {outputFile}")
-    write_results_to_xml(results, outputFile)
-else:
+
+try:
+    if resultsToFile:
+        print(f"Writing results to output file {outputFile}")
+        write_results_to_xml(results, outputFile)
+    else:
+        print(results)
+
+except Exception as e:
+    print(f"Error while writing all positions with depth {depth} to output file with the following error: {e}")
     print(results)
