@@ -1,8 +1,8 @@
 import xml.etree.ElementTree as ET
 import os
 
-countTopPositions = 100
-calculatedDepth = 25
+countTopPositions = 25
+calculatedDepth = 30
 xmlFile = f"analysis\\calcEval\\starting_pos_analysis_depth_{calculatedDepth}.xml"
 outputFile = f"analysis\\topPositions\\top_{countTopPositions}_positions_depth_{calculatedDepth}.xml"
 allPositionFile = ".\\legacy\\startingPositions.txt"
